@@ -1,0 +1,7375 @@
+{
+  "companies": [
+    {
+      "title": "中国船舶重工股份有限公司",
+      "tags": [
+        "上市公司",
+        "船舶",
+        "机械制造",
+        "500强"
+      ],
+      "address": "北京市海淀区昆明湖南路72号",
+      "tel": "010-88082366",
+      "mail": "investors@csicl.com.cn",
+      "homepage": "http://www.csicl.com.cn",
+      "creat_time": 1542555483498,
+      "id": 1
+    },
+    {
+      "title": "中国联合网络通信股份有限公司",
+      "tags": [
+        "上市公司",
+        "电信",
+        "通讯",
+        "500强"
+      ],
+      "address": "上海市长宁区长宁路1033号29楼",
+      "tel": "95558",
+      "mail": "zhangjian@chinaunicom-a.com",
+      "homepage": "http://www.chinaunicom-a.com",
+      "creat_time": 1542555483516,
+      "id": 2
+    },
+    {
+      "title": "上海浦东发展银行股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "信托重仓"
+      ],
+      "address": "上海市中山东一路12号",
+      "tel": "010-82256688",
+      "mail": "bdo@spdb.com.cn",
+      "homepage": "http://www.spdb.com.cn",
+      "creat_time": 1542555483524,
+      "id": 3
+    },
+    {
+      "title": "武汉钢铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "创投概念"
+      ],
+      "address": "湖北省武汉市青山区厂前",
+      "tel": "027-86807873",
+      "mail": "isp@wgol.com.cn",
+      "homepage": "http://www.wisco.com.cn",
+      "creat_time": 1542555483532,
+      "id": 4
+    },
+    {
+      "title": "阳泉煤业(集团)有限责任公司",
+      "tags": [
+        "煤业",
+        "铝电",
+        "建筑建材",
+        "地产等"
+      ],
+      "address": "山西省阳泉市北大街",
+      "tel": "0353-7073112",
+      "mail": "ymjt@ymjt.com.cn",
+      "homepage": "http://www.ymjt.com.cn/",
+      "creat_time": 1542555483539,
+      "id": 5
+    },
+    {
+      "title": "中国太平洋保险（集团）股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "证券",
+        "信托"
+      ],
+      "address": "上海市浦东新区银城中路190号交银金融大厦南楼",
+      "tel": "021-58767282",
+      "mail": "ir@cpic.com.cn",
+      "homepage": "http://www.cpic.com.cn",
+      "creat_time": 1542555483546,
+      "id": 6
+    },
+    {
+      "title": "中国远洋控股股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "港口水运",
+        "滨海概念"
+      ],
+      "address": "天津市天津港保税区通达广场1号3层",
+      "tel": "010-51897000",
+      "mail": "mingdong@chinacosco.com",
+      "homepage": "http://www.chinacosco.com",
+      "creat_time": 1542555483552,
+      "id": 7
+    },
+    {
+      "title": "中国电信股份有限公司",
+      "tags": [
+        "电信",
+        "通讯",
+        "500强",
+        "世界500强"
+      ],
+      "address": "北京市西城区金融大街31号",
+      "tel": "95539",
+      "mail": "ir@chinatelecom-h.com",
+      "homepage": "http://www.chinatelecom-h.com",
+      "creat_time": 1542555483558,
+      "id": 8
+    },
+    {
+      "title": "中国石油天然气股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "石油开采",
+        "页岩气概念"
+      ],
+      "address": "北京市东城区东直门北大街9号",
+      "tel": "010-62094114",
+      "mail": "master@cnpc.com.cn",
+      "homepage": "http://www.petrochina.com.cn",
+      "creat_time": 1542555483564,
+      "id": 9
+    },
+    {
+      "title": "北京首钢股份有限公司",
+      "tags": [
+        "上市公司",
+        "金属加工",
+        "钢铁冶炼",
+        "500强"
+      ],
+      "address": "北京市石景山路99号",
+      "tel": "027-85714165",
+      "mail": "zhangy@shougang.com.cn",
+      "homepage": "http://www.sggf.com.cn",
+      "creat_time": 1542555483570,
+      "id": 10
+    },
+    {
+      "title": "华电能源股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "页岩气概念"
+      ],
+      "address": "黑龙江省哈尔滨市南岗区大成街209号",
+      "tel": "0451-82525778",
+      "mail": "snow@htpp.cn",
+      "homepage": "http://www.hdenergy.com",
+      "creat_time": 1542555485158,
+      "id": 11
+    },
+    {
+      "title": "中国农业银行股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "投资"
+      ],
+      "address": "北京市东城区建国门内大街69号",
+      "tel": "010-85109619",
+      "mail": "95599@abchina.com",
+      "homepage": "http://www.abchina.com",
+      "creat_time": 1542555485164,
+      "id": 12
+    },
+    {
+      "title": "招商银行股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "深圳综改"
+      ],
+      "address": "广东省深圳市福田区深南大道7088号",
+      "tel": "95597",
+      "mail": "95555@cmbchina.com",
+      "homepage": "http://www.cmbchina.com",
+      "creat_time": 1542555485171,
+      "id": 13
+    },
+    {
+      "title": "东风汽车股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "武汉经济圈"
+      ],
+      "address": "湖北省武汉市经济技术开发区创业路58号",
+      "tel": "010-83673331",
+      "mail": "dfaczq@dfac.com",
+      "homepage": "http://www.dfac.com",
+      "creat_time": 1542555485179,
+      "id": 14
+    },
+    {
+      "title": "大唐国际发电股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "低碳概念"
+      ],
+      "address": "北京市西城区广宁伯街9号",
+      "tel": "010-88008678",
+      "mail": "dtpower@dtpower.com",
+      "homepage": "http://www.dtpower.com",
+      "creat_time": 1542555485185,
+      "id": 15
+    },
+    {
+      "title": "吉利汽车控股有限公司",
+      "tags": [
+        "汽车制造",
+        "机械",
+        "500强",
+        "世界500强"
+      ],
+      "address": "浙江省杭州市滨江区江陵路1760号",
+      "tel": "luck@geely.com",
+      "mail": "http://www.geelyauto.com.hk",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555485193,
+      "id": 16
+    },
+    {
+      "title": "中国交通建设股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "市政"
+      ],
+      "address": "北京市西城区德胜门外大街85号",
+      "tel": "95583",
+      "mail": "webmaster@ccccltd.cn",
+      "homepage": "http://www.ccccltd.cn",
+      "creat_time": 1542555485201,
+      "id": 17
+    },
+    {
+      "title": "开滦能源化工股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "煤炭"
+      ],
+      "address": "河北省唐山市新华东道70号东楼",
+      "tel": "400-886-9888",
+      "mail": "kcc@kailuan.com.cn",
+      "homepage": "http://www.kkcc.com.cn",
+      "creat_time": 1542555485207,
+      "id": 18
+    },
+    {
+      "title": "中国航空科技工业股份有限公司",
+      "tags": [
+        "航空",
+        "机械",
+        "500强",
+        "世界500强"
+      ],
+      "address": "北京市东城区交道口南大街67号",
+      "tel": "暂无",
+      "mail": "avichina@avic.com.cn",
+      "homepage": "http://www.avichina.com",
+      "creat_time": 1542555485214,
+      "id": 19
+    },
+    {
+      "title": "中国海洋石油有限公司",
+      "tags": [
+        "能源",
+        "500强",
+        "世界500强"
+      ],
+      "address": "香港花园道1号中银大厦65楼",
+      "tel": "http://www.cnoocltd.com",
+      "mail": ".contact li:nth-child(3)",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555485221,
+      "id": 20
+    },
+    {
+      "title": "中国中铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "高铁概念股"
+      ],
+      "address": "北京市海淀区复兴路69号中国中铁广场A座",
+      "tel": "010-51845225",
+      "mail": "Webmaster@crec.cn",
+      "homepage": "http://www.crec.cn",
+      "creat_time": 1542555486617,
+      "id": 21
+    },
+    {
+      "title": "中国粮油控股有限公司",
+      "tags": [
+        "生化能源",
+        "食品加工",
+        "500强",
+        "世界500强"
+      ],
+      "address": "香港铜锣湾告士打道262号鹏利中心31楼",
+      "tel": "0555-2882114",
+      "mail": "ir@cofco.com",
+      "homepage": "http://www.chinaagri.com",
+      "creat_time": 1542555486625,
+      "id": 22
+    },
+    {
+      "title": "联想集团有限公司",
+      "tags": [
+        "电子产品",
+        "500强",
+        "世界500强"
+      ],
+      "address": "香港鲗鱼涌英皇道979号太古坊林肯大厦23楼",
+      "tel": "ir@lenovo.com",
+      "mail": "http://www.lenovo.com.cn",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555486632,
+      "id": 23
+    },
+    {
+      "title": "中国神华能源股份有限公司",
+      "tags": [
+        "上市公司",
+        "能源",
+        "开采",
+        "500强"
+      ],
+      "address": "北京市东城区安定门西滨河路22号",
+      "tel": "95561",
+      "mail": "ir@csec.com",
+      "homepage": "http://www.shenhuachina.com",
+      "creat_time": 1542555486641,
+      "id": 24
+    },
+    {
+      "title": "五矿发展股份有限公司",
+      "tags": [
+        "上市公司",
+        "金属",
+        "矿产",
+        "500强"
+      ],
+      "address": "北京市海淀区三里河路5号B座",
+      "tel": "95577",
+      "mail": "sunjis@minmetals.com",
+      "homepage": "http://www.minlist.com.cn",
+      "creat_time": 1542555486648,
+      "id": 25
+    },
+    {
+      "title": "中国人寿保险股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "证券",
+        "信托"
+      ],
+      "address": "北京市西城区金融大街16号",
+      "tel": "010-63633333",
+      "mail": "lanyuxi@e-chinalife.com",
+      "homepage": "http://www.e-chinalife.com",
+      "creat_time": 1542555486658,
+      "id": 26
+    },
+    {
+      "title": "浙江物产中大元通集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "汽车贸易",
+        "房地产",
+        "500强"
+      ],
+      "address": "浙江省杭州市中大广场A座",
+      "tel": "0571-85777029",
+      "mail": "gufen@zhongda.com",
+      "homepage": "http://www.zhongda.com",
+      "creat_time": 1542555486667,
+      "id": 27
+    },
+    {
+      "title": "冀中能源股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "煤炭"
+      ],
+      "address": "河北省邢台市中兴西大街191号",
+      "tel": "0319-2068242",
+      "mail": "000937@vip.163.com",
+      "homepage": "http://www.jznygf.com",
+      "creat_time": 1542555486676,
+      "id": 28
+    },
+    {
+      "title": "鞍钢股份有限公司",
+      "tags": [
+        "上市公司",
+        "钢铁",
+        "金属加工",
+        "500强"
+      ],
+      "address": "辽宁省鞍山市铁西区鞍钢厂区",
+      "tel": "010-66428166",
+      "mail": "ansteel@ansteel.com.cn",
+      "homepage": "http://www.ansteel.com.cn",
+      "creat_time": 1542555486683,
+      "id": 29
+    },
+    {
+      "title": "中国人民财产保险股份有限公司",
+      "tags": [
+        "保险",
+        "金融服务",
+        "500强",
+        "世界500强"
+      ],
+      "address": "北京市朝阳区建国门外大街2号院2号楼",
+      "tel": "IR@picc.com.cn",
+      "mail": "http://www.piccnet.com.cn",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555486692,
+      "id": 30
+    },
+    {
+      "title": "中国银行股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "投资"
+      ],
+      "address": "北京市西城区复兴门内大街1号",
+      "tel": "95567",
+      "mail": "bocir@bank-of-china.com",
+      "homepage": "http://www.boc.cn",
+      "creat_time": 1542555487428,
+      "id": 31
+    },
+    {
+      "title": "山煤国际能源集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "煤炭",
+        "能源",
+        "500强"
+      ],
+      "address": "山西省太原市长风街115号",
+      "tel": "400-8899-315",
+      "mail": "smzqb@shanxicoal.cn",
+      "homepage": "http://www.smgjcoal.com",
+      "creat_time": 1542555487435,
+      "id": 32
+    },
+    {
+      "title": "江苏沙钢股份有限公司",
+      "tags": [
+        "上市公司",
+        "钢铁加工",
+        "500强",
+        "世界500强"
+      ],
+      "address": "江苏省张家港市经济开发区",
+      "tel": "0852-28242638",
+      "mail": "shaganggufen@gmail.com",
+      "homepage": "http://www.shaganggf.com",
+      "creat_time": 1542555487443,
+      "id": 33
+    },
+    {
+      "title": "中国铝业股份有限公司",
+      "tags": [
+        "上市公司",
+        "金属",
+        "矿产",
+        "500强"
+      ],
+      "address": "北京市海淀区西直门北大街62号",
+      "tel": "95511",
+      "mail": "webmaster@chalco.com.cn",
+      "homepage": "http://www.chalco.com.cn",
+      "creat_time": 1542555487450,
+      "id": 34
+    },
+    {
+      "title": "交通银行股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "商业银行"
+      ],
+      "address": "上海市浦东新区银城中路188号",
+      "tel": "95105555",
+      "mail": "investor@bankcomm.com",
+      "homepage": "http://www.bankcomm.com",
+      "creat_time": 1542555487459,
+      "id": 35
+    },
+    {
+      "title": "宝山钢铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "航母概念"
+      ],
+      "address": "上海市宝山区富锦路885号宝钢指挥中心",
+      "tel": "95568",
+      "mail": "ir@baosteel.com",
+      "homepage": "http://www.baosteel.com",
+      "creat_time": 1542555487466,
+      "id": 36
+    },
+    {
+      "title": "中国铁建股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "高铁概念股"
+      ],
+      "address": "北京市海淀区复兴路40号东院",
+      "tel": "010-52688600",
+      "mail": "ir@crcc.cn",
+      "homepage": "http://www.crcc.cn",
+      "creat_time": 1542555487474,
+      "id": 37
+    },
+    {
+      "title": "中国建筑股份有限公司",
+      "tags": [
+        "上市公司",
+        "建筑",
+        "世界500强",
+        "500强"
+      ],
+      "address": "北京市海淀区三里河路15号",
+      "tel": "010-88082888",
+      "mail": "zjlb@cscec.com",
+      "homepage": "http://www.cscec.com",
+      "creat_time": 1542555487479,
+      "id": 38
+    },
+    {
+      "title": "河北钢铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "循环经济"
+      ],
+      "address": "河北省石家庄市桥西区裕华西路 40 号",
+      "tel": "950718",
+      "mail": "hbgtgf@hebgtjt.com",
+      "homepage": "http://www.hebgtgf.com",
+      "creat_time": 1542555487484,
+      "id": 39
+    },
+    {
+      "title": "中国民生银行",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "投资"
+      ],
+      "address": "北京市中关村南大街1号友谊宾馆嘉宾楼",
+      "tel": "010-85176084",
+      "mail": "cmbc@cmbc.com.cn",
+      "homepage": "http://www.cmbc.com.cn",
+      "creat_time": 1542555487490,
+      "id": 40
+    },
+    {
+      "title": "魏桥纺织股份有限公司",
+      "tags": [
+        "纺织",
+        "化工",
+        "500强",
+        "世界500强"
+      ],
+      "address": "山东省邹平县经济开发区魏纺路一号",
+      "tel": "010-88259488",
+      "mail": "http://www.wqfz.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555488269,
+      "id": 41
+    },
+    {
+      "title": "中国移动有限公司",
+      "tags": [
+        "通信",
+        "无线传输",
+        "电讯",
+        "500强"
+      ],
+      "address": "香港中环皇后大道中99号中环中心60楼",
+      "tel": "010-52686688",
+      "mail": "ca@chinamobilehk.com",
+      "homepage": "http://www.chinamobileltd.com",
+      "creat_time": 1542555488278,
+      "id": 42
+    },
+    {
+      "title": "中国平安保险(集团)股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "证券",
+        "信托"
+      ],
+      "address": "广东省深圳市福田中心区福华三路星河发展中心办公15、16、17、18层",
+      "tel": "95555",
+      "mail": "ir@pingan.com.cn",
+      "homepage": "http://www.pingan.com",
+      "creat_time": 1542555488286,
+      "id": 43
+    },
+    {
+      "title": "中国工商银行股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "海外收购"
+      ],
+      "address": "北京市西城区复兴门内大街55号",
+      "tel": "010-66108608",
+      "mail": "ir@icbc.com.cn",
+      "homepage": "http://www.icbc.com.cn",
+      "creat_time": 1542555488293,
+      "id": 44
+    },
+    {
+      "title": "中国有色矿业有限公司",
+      "tags": [
+        "金属矿产开发",
+        "建筑工程",
+        "世界500强"
+      ],
+      "address": "北京朝阳区安定路10号中国有色大厦(北楼)",
+      "tel": "010-84426666",
+      "mail": "cnmc@cnmc.com.cn",
+      "homepage": "http://www.cnmc.com.cn/",
+      "creat_time": 1542555488302,
+      "id": 45
+    },
+    {
+      "title": "中国冶金科工股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "保障房概念"
+      ],
+      "address": "北京市朝阳区曙光西里28号中冶大厦",
+      "tel": "95530",
+      "mail": "ir@mcc.com.cn",
+      "homepage": "http://www.mccchina.com",
+      "creat_time": 1542555488312,
+      "id": 46
+    },
+    {
+      "title": "中国建材股份有限公司",
+      "tags": [
+        "建材生产",
+        "500强",
+        "世界500强"
+      ],
+      "address": "北京市海淀区三里河路甲11号中国建材大厦17层",
+      "tel": "0701-3777070",
+      "mail": "cnbmltd@cnbm.com.cn",
+      "homepage": "http://www.cnbmltd.com",
+      "creat_time": 1542555488319,
+      "id": 47
+    },
+    {
+      "title": "中国建设银行股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "金融服务"
+      ],
+      "address": "北京市西城区金融大街25号",
+      "tel": "010-66215533",
+      "mail": "ir@ccb.com",
+      "homepage": "http://www.ccb.com",
+      "creat_time": 1542555488326,
+      "id": 48
+    },
+    {
+      "title": "新兴铸管股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "金属加工"
+      ],
+      "address": "河北省武安市上洛阳村北(2672厂区)",
+      "tel": "0310-5793247",
+      "mail": "xxzg0778@163.com",
+      "homepage": "http://www.xinxing-pipes.com",
+      "creat_time": 1542555488334,
+      "id": 49
+    },
+    {
+      "title": "上海汽车集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "锂电概念"
+      ],
+      "address": "上海市静安区威海路489号",
+      "tel": "021-22011888",
+      "mail": "saicmotor@saic.com.cn",
+      "homepage": "http://www.saicmotor.com",
+      "creat_time": 1542555488341,
+      "id": 50
+    },
+    {
+      "title": "中国石油化工股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "页岩气概念"
+      ],
+      "address": "北京市朝阳区朝阳门北大街22号",
+      "tel": "9510-5988",
+      "mail": "info@saclub.cn",
+      "homepage": "http://www.sinopec.com",
+      "creat_time": 1542555489303,
+      "id": 51
+    },
+    {
+      "title": "浙江栋梁新材股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "金属加工"
+      ],
+      "address": "浙江省湖州市织里镇栋梁路",
+      "tel": "0971-8127399",
+      "mail": "nijie0572@163.com",
+      "homepage": "http://www.dongliang.com.cn",
+      "creat_time": 1542555489310,
+      "id": 52
+    },
+    {
+      "title": "烟台万华聚氨酯股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "低碳概念"
+      ],
+      "address": "山东省烟台市幸福南路7号",
+      "tel": "0312-8922208",
+      "mail": "mhxiao@ytpu.com",
+      "homepage": "http://www.ytpu.com",
+      "creat_time": 1542555489318,
+      "id": 53
+    },
+    {
+      "title": "广东海大集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "农林牧渔",
+        "基金重仓"
+      ],
+      "address": "广东省广州市番禺区番禺大道北555号天安科技创新大厦213室",
+      "tel": "020-39388960",
+      "mail": "zqbgs@haid.com.cn",
+      "homepage": "http://www.haid.com.cn",
+      "creat_time": 1542555489325,
+      "id": 54
+    },
+    {
+      "title": "比亚迪股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "汽车制造"
+      ],
+      "address": "广东省深圳市坪山新区比亚迪路3009号",
+      "tel": "0755-89888888",
+      "mail": "db@byd.com",
+      "homepage": "http://www.byd.com.cn",
+      "creat_time": 1542555489332,
+      "id": 55
+    },
+    {
+      "title": "中储发展股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "陆路运输",
+        "金融改革"
+      ],
+      "address": "北京市丰台区南四环西路188号6区18号楼",
+      "tel": "023-63843197",
+      "mail": "zcgfzqb@zcgf.com.cn",
+      "homepage": "http://www.zcgf.com.cn",
+      "creat_time": 1542555489338,
+      "id": 56
+    },
+    {
+      "title": "海马汽车集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "机械"
+      ],
+      "address": "海南省海口市金盘工业区金牛路2号",
+      "tel": "010-68341188",
+      "mail": "000572@haima.com",
+      "homepage": "http://www.000572.com",
+      "creat_time": 1542555489348,
+      "id": 57
+    },
+    {
+      "title": "国美电器控股有限公司",
+      "tags": [
+        "家电零售",
+        "卖场",
+        "500强"
+      ],
+      "address": "香港中环皇后大道中99号中环中心6101室",
+      "tel": "0756-8614883",
+      "mail": "service1@gome.com.cn",
+      "homepage": "http://www.gome.com.hk",
+      "creat_time": 1542555489357,
+      "id": 58
+    },
+    {
+      "title": "中海集装箱运输股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "港口水运",
+        "海运"
+      ],
+      "address": "中国上海市浦东新区福山路450号",
+      "tel": "021-65966512",
+      "mail": "ir@cnshipping.com",
+      "homepage": "http://www.cscl.com.cn",
+      "creat_time": 1542555489363,
+      "id": 59
+    },
+    {
+      "title": "中国西电电气股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力设备",
+        "核能概念"
+      ],
+      "address": "陕西省西安市高新区唐兴路7号A座",
+      "tel": "010-64082008",
+      "mail": "xdnet@xd.com.cn",
+      "homepage": "http://www.xdect.com.cn",
+      "creat_time": 1542555489370,
+      "id": 60
+    },
+    {
+      "title": "广东美的电器股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "家用电器",
+        "保障房概念"
+      ],
+      "address": "广东省佛山市顺德区北滘镇美的大道 6 号美的总部大楼",
+      "tel": "010-82016644",
+      "mail": "mdfsfw@midea.com.cn",
+      "homepage": "http://www.midea.com",
+      "creat_time": 1542555490395,
+      "id": 61
+    },
+    {
+      "title": "宝业集团股份有限公司",
+      "tags": [
+        "建筑",
+        "施工",
+        "500强"
+      ],
+      "address": "浙江省绍兴县柯桥山阴西路501号",
+      "tel": "http://www.baoyegroup.com",
+      "mail": ".contact li:nth-child(3)",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555490401,
+      "id": 62
+    },
+    {
+      "title": "英利绿色能源控股有限公司",
+      "tags": [
+        "新能源",
+        "太阳能",
+        "500强"
+      ],
+      "address": "河北省保定市复兴中路3055号",
+      "tel": "0543-4161171",
+      "mail": "commerce@yinglisolar.com",
+      "homepage": "http://www.yinglisolar.com/cn",
+      "creat_time": 1542555490409,
+      "id": 63
+    },
+    {
+      "title": "大秦铁路股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "陆路运输",
+        "高铁概念股"
+      ],
+      "address": "山西省大同市站北街14号;山西省太原市建设北路202号",
+      "tel": "021-22016988",
+      "mail": "web@daqinrailway.com",
+      "homepage": "http://www.daqintielu.com",
+      "creat_time": 1542555490415,
+      "id": 64
+    },
+    {
+      "title": "方大特钢科技股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "涉矿概念"
+      ],
+      "address": "江西省南昌市青山湖区冶金大道475号",
+      "tel": "0791-88394075",
+      "mail": "clgf600507@yahoo.com.cn",
+      "homepage": "http://www.changli-steels.com",
+      "creat_time": 1542555490422,
+      "id": 65
+    },
+    {
+      "title": "沈阳化工股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "500强"
+      ],
+      "address": "辽宁省沈阳市铁西区卫工北街46号",
+      "tel": "0315-8511080",
+      "mail": "000698@126.com",
+      "homepage": "http://www.sychem.com",
+      "creat_time": 1542555490429,
+      "id": 66
+    },
+    {
+      "title": "唐山三友化工股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "500强"
+      ],
+      "address": "河北省唐山市南堡开发区",
+      "tel": "021-63372888",
+      "mail": "gfbgs@sanyou-chem.com.cn",
+      "homepage": "http://www.sanyou-chem.com.cn",
+      "creat_time": 1542555490438,
+      "id": 67
+    },
+    {
+      "title": "中兴通讯股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "通信设备",
+        "云计算"
+      ],
+      "address": "广东省深圳市南山区高新技术产业园科技南路中兴通讯大厦",
+      "tel": "010-84521604",
+      "mail": "mobile@zte.com.cn",
+      "homepage": "http://www.zte.com.cn",
+      "creat_time": 1542555490445,
+      "id": 68
+    },
+    {
+      "title": "银座集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "日用品销售"
+      ],
+      "address": "山东省济南市泺源大街22号中银大厦20层",
+      "tel": "0571-89903388",
+      "mail": "600858@sina.com",
+      "homepage": "http://www.yinzuostock.com",
+      "creat_time": 1542555490453,
+      "id": 69
+    },
+    {
+      "title": "五菱汽车集团控股有限公司",
+      "tags": [
+        "汽车",
+        "机械",
+        "500强"
+      ],
+      "address": "香港湾仔莫理臣山道9号天乐广场35楼",
+      "tel": "029-88832222",
+      "mail": "info@wuling.com.hk",
+      "homepage": "http://www.wuling.com.hk",
+      "creat_time": 1542555490460,
+      "id": 70
+    },
+    {
+      "title": "天津一汽夏利汽车股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "滨海概念"
+      ],
+      "address": "天津市西青区京福公路 578 号",
+      "tel": "0870-8662003",
+      "mail": "xiali@mail.zlnet.com.cn",
+      "homepage": "http://www.tjfaw.com.cn",
+      "creat_time": 1542555491913,
+      "id": 71
+    },
+    {
+      "title": "国投电力控股股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "太阳能"
+      ],
+      "address": "北京市西城区西直门南小街147号5号楼12层",
+      "tel": "023-68843319",
+      "mail": "sdic@sdic.com.cn",
+      "homepage": "http://www.sdicpower.com",
+      "creat_time": 1542555491921,
+      "id": 72
+    },
+    {
+      "title": "万科企业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "房地产",
+        "保障房概念"
+      ],
+      "address": "广东省深圳市盐田区大梅沙环梅路33号万科中心",
+      "tel": "021-57941941",
+      "mail": "webmaster@vanke.com",
+      "homepage": "http://www.vanke.com",
+      "creat_time": 1542555491931,
+      "id": 73
+    },
+    {
+      "title": "青岛海信电器股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "家用电器",
+        "3D"
+      ],
+      "address": "山东省青岛市经济技术开发区前湾港路218号",
+      "tel": "0532-83889556",
+      "mail": "service@hisense.com",
+      "homepage": "http://www.hisense.com",
+      "creat_time": 1542555491938,
+      "id": 74
+    },
+    {
+      "title": "中国化学工程股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "化学制品"
+      ],
+      "address": "北京市东城区东直门内大街2号",
+      "tel": "010-82169288",
+      "mail": "zhouyj@cncec.com.cn",
+      "homepage": "http://www.cncec.com.cn",
+      "creat_time": 1542555491945,
+      "id": 75
+    },
+    {
+      "title": "华东医药股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "医药生物",
+        "药品生产"
+      ],
+      "address": "浙江省杭州市莫干山路866号",
+      "tel": "010-61958802",
+      "mail": "hz000963@126.com",
+      "homepage": "http://www.eastchinapharm.com",
+      "creat_time": 1542555491952,
+      "id": 76
+    },
+    {
+      "title": "江西正邦科技股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "农林牧渔",
+        "金融改革"
+      ],
+      "address": "江西省南昌市高新技术开发区艾溪湖一路569号",
+      "tel": "021-33024666",
+      "mail": "ast@zhengbang.com",
+      "homepage": "http://www.zhengbang.com",
+      "creat_time": 1542555491961,
+      "id": 77
+    },
+    {
+      "title": "连云港如意集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "舟山新区"
+      ],
+      "address": "江苏省连云港市新浦区北郊路6号",
+      "tel": "0871-5017049",
+      "mail": "ruyidongmi@ideal-group.com.cn",
+      "homepage": "http://www.ideal-group.com.cn",
+      "creat_time": 1542555491970,
+      "id": 78
+    },
+    {
+      "title": "金地(集团)股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "房地产",
+        "保障房概念"
+      ],
+      "address": "广东省深圳市福田区福强路金地商业大楼",
+      "tel": "400-888-6677",
+      "mail": "ir@gemdale.com",
+      "homepage": "http://www.gemdale.com",
+      "creat_time": 1542555491977,
+      "id": 79
+    },
+    {
+      "title": "三普药业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力设备",
+        "制药"
+      ],
+      "address": "江苏省宜兴市高塍远东大道6号",
+      "tel": "400-6591-899",
+      "mail": "wxyddl@163.com",
+      "homepage": "http://www.600869.com",
+      "creat_time": 1542555491986,
+      "id": 80
+    },
+    {
+      "title": "山东太阳纸业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "轻工制造",
+        "纸业"
+      ],
+      "address": "山东省兖州市友谊路1号",
+      "tel": "010-80800808",
+      "mail": "pfc9697@163.com",
+      "homepage": "http://www.sunpapergroup.com",
+      "creat_time": 1542555508826,
+      "id": 81
+    },
+    {
+      "title": "长春一汽富维汽车零部件股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "高送配潜力概念"
+      ],
+      "address": "吉林省长春市汽车产业开发区东风南街1399号",
+      "tel": "0871-8604384",
+      "mail": "fw_fw@faw.com.cn",
+      "homepage": "http://www.fawfw.com.cn",
+      "creat_time": 1542555508835,
+      "id": 82
+    },
+    {
+      "title": "上海电力股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "核能概念"
+      ],
+      "address": "上海市中山南路268号",
+      "tel": "0755-83474800",
+      "mail": "sepco@shanghaipower.com",
+      "homepage": "http://www.shanghaipower.com",
+      "creat_time": 1542555508842,
+      "id": 83
+    },
+    {
+      "title": "浙江巨化股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "锂电概念"
+      ],
+      "address": "浙江省衢州市柯城区",
+      "tel": "0570-3091704",
+      "mail": "jhgf@juhua.com.cn",
+      "homepage": "http://www.jhgf.com.cn",
+      "creat_time": 1542555508850,
+      "id": 84
+    },
+    {
+      "title": "湖北能源集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "核能概念"
+      ],
+      "address": "湖北省武汉市武昌区徐东大街96号",
+      "tel": "0411-82511999",
+      "mail": "zq@hbny.com.cn",
+      "homepage": "http://www.hbny.com.cn",
+      "creat_time": 1542555508857,
+      "id": 85
+    },
+    {
+      "title": "中国龙工控股有限公司",
+      "tags": [
+        "工程机械",
+        "汽车",
+        "500强"
+      ],
+      "address": "上海市松江工业区新桥民益路26号",
+      "tel": "852-28478888",
+      "mail": "postmaster@lonking.cn",
+      "homepage": "http://www.lonking.cn",
+      "creat_time": 1542555508864,
+      "id": 86
+    },
+    {
+      "title": "北京燕京啤酒股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "食品饮料",
+        "创投概念"
+      ],
+      "address": "北京市顺义区双河路9号",
+      "tel": "010-89490729",
+      "mail": "yj000729@126.com",
+      "homepage": "http://www.yanjing.com.cn",
+      "creat_time": 1542555508871,
+      "id": 87
+    },
+    {
+      "title": "力帆实业(集团)股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "民营乘用车"
+      ],
+      "address": "重庆市沙坪坝区上桥张家湾60号",
+      "tel": "0574-87066665",
+      "mail": "mail@lifan.com",
+      "homepage": "http://www.lifan.com",
+      "creat_time": 1542555508878,
+      "id": 88
+    },
+    {
+      "title": "浙江正泰电器股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力设备",
+        "低压电器生产"
+      ],
+      "address": "浙江省乐清市北白象镇正泰工业园区正泰路1号",
+      "tel": "023-65262233",
+      "mail": "chint_79@cwzr.com",
+      "homepage": "http://www.chint.net",
+      "creat_time": 1542555508884,
+      "id": 89
+    },
+    {
+      "title": "国投新集能源股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "皖江区域"
+      ],
+      "address": "安徽省淮南市洞山中路12号",
+      "tel": "0551-2639800",
+      "mail": "daifei@sdicxinji.com.cn",
+      "homepage": "http://www.sdicxinji.com.cn",
+      "creat_time": 1542555508891,
+      "id": 90
+    },
+    {
+      "title": "河南豫光金铅股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "化工"
+      ],
+      "address": "河南省济源市荆梁南街1号",
+      "tel": "0592-6081612",
+      "mail": "yg@yggf.com.cn",
+      "homepage": "http://www.yggf.com.cn",
+      "creat_time": 1542555510273,
+      "id": 91
+    },
+    {
+      "title": "北京大北农科技集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "农林牧渔",
+        "农产品生产"
+      ],
+      "address": "北京市海淀区中关村大街27号中关村大厦14层",
+      "tel": "0512-52532888",
+      "mail": "cwbgs@dbn.com.cn",
+      "homepage": "http://www.dbn.com.cn",
+      "creat_time": 1542555510280,
+      "id": 92
+    },
+    {
+      "title": "安徽恒源煤电股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "皖江区域"
+      ],
+      "address": "安徽省宿州市西昌路157号",
+      "tel": "400-888-157",
+      "mail": "hymd600971@163.com",
+      "homepage": "http://www.ahhymd.com.cn",
+      "creat_time": 1542555510287,
+      "id": 93
+    },
+    {
+      "title": "新疆天山水泥股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "水泥",
+        "保障房概念"
+      ],
+      "address": "新疆维吾尔自治区乌鲁木齐市河北东路1256号天合大厦",
+      "tel": "0991-6686791",
+      "mail": "tianshan@sinoma.cn",
+      "homepage": "http://www.sinoma-tianshan.cn",
+      "creat_time": 1542555510292,
+      "id": 94
+    },
+    {
+      "title": "际华集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "纺织服装",
+        "太阳能"
+      ],
+      "address": "北京市丰台区南四环西路188号十五区6号楼",
+      "tel": "010-82399988",
+      "mail": "ir@jihuachina.com",
+      "homepage": "http://www.jihuachina.com",
+      "creat_time": 1542555510301,
+      "id": 95
+    },
+    {
+      "title": "新疆八一钢铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "新疆开发概念"
+      ],
+      "address": "新疆维吾尔自治区乌鲁木齐市头屯河区新钢路",
+      "tel": "0370-5114955",
+      "mail": "fanyan@bygt.com.cn",
+      "homepage": "http://www.bygt.com.cn",
+      "creat_time": 1542555510309,
+      "id": 96
+    },
+    {
+      "title": "中铁二局股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "高铁概念股"
+      ],
+      "address": "四川省成都市马家花园10号中铁二局大厦",
+      "tel": "0592-2263333",
+      "mail": "ztejsb@cregc.com.cn",
+      "homepage": "http://www.crec.com.cn",
+      "creat_time": 1542555510316,
+      "id": 97
+    },
+    {
+      "title": "平顶山天安煤业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "低碳概念"
+      ],
+      "address": "河南省平顶山市矿工中路21号",
+      "tel": "0372-3120114",
+      "mail": "pmta@pmjt.com.cn",
+      "homepage": "http://www.pmta.com.cn",
+      "creat_time": 1542555510323,
+      "id": 98
+    },
+    {
+      "title": "浙江龙盛集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "钢铁"
+      ],
+      "address": "浙江省上虞市道墟镇",
+      "tel": "0577-628777777",
+      "mail": "chengj@longsheng.com",
+      "homepage": "http://www.longsheng.com",
+      "creat_time": 1542555510332,
+      "id": 99
+    },
+    {
+      "title": "吉林亚泰(集团)股份有限公司",
+      "tags": [
+        "上市公司",
+        "房地产",
+        "建材",
+        "500强"
+      ],
+      "address": "吉林省长春市吉林大路1801号",
+      "tel": "020-39388666",
+      "mail": "qinyin@yatai.com",
+      "homepage": "http://www.yatai.com",
+      "creat_time": 1542555510338,
+      "id": 100
+    },
+    {
+      "title": "港中旅华贸国际物流股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "陆路运输",
+        "货运代理"
+      ],
+      "address": "上海市南京西路338号天安中心20楼",
+      "tel": "0730-8590330",
+      "mail": "ird@ctsfreight.com",
+      "homepage": "http://www.ctsfreight.com",
+      "creat_time": 1542555511046,
+      "id": 101
+    },
+    {
+      "title": "山东晨鸣纸业集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "轻工制造",
+        "QFII概念"
+      ],
+      "address": "山东省寿光市圣城街595号",
+      "tel": "400-886-6700",
+      "mail": "chenmmingpaper@163.com",
+      "homepage": "http://www.chenmingpaper.com",
+      "creat_time": 1542555511056,
+      "id": 102
+    },
+    {
+      "title": "深圳市燃气集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "非电力公用事业",
+        "燃气批发"
+      ],
+      "address": "广东省深圳市福田区深南大道6021号喜年中心B座",
+      "tel": "0971-5299846",
+      "mail": "shushi@szgas.com.cn",
+      "homepage": "http://www.szgas.com.cn",
+      "creat_time": 1542555511065,
+      "id": 103
+    },
+    {
+      "title": "保利置业集团有限公司",
+      "tags": [
+        "房地产开发",
+        "500强"
+      ],
+      "address": "上海市浦東區東方路18號上海保利廣場32樓",
+      "tel": "021-68815566",
+      "mail": "group@shpoly.com",
+      "homepage": "http://www.polyhongkong.com.hk",
+      "creat_time": 1542555511075,
+      "id": 104
+    },
+    {
+      "title": "天津港发展控股有限公司",
+      "tags": [
+        "港口管理",
+        "500强"
+      ],
+      "address": "香港铜锣湾勿地臣街1号时代广场二座39楼3904-3907室",
+      "tel": "021-65313206",
+      "mail": "ir@tianjinportdev.com",
+      "homepage": "http://www.tianjinportdev.com",
+      "creat_time": 1542555511085,
+      "id": 105
+    },
+    {
+      "title": "中国中煤能源股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "低碳概念"
+      ],
+      "address": "北京市朝阳区黄寺大街1号",
+      "tel": "010-82236028",
+      "mail": "ird@chinacoal.com",
+      "homepage": "http://www.chinacoalenergy.com",
+      "creat_time": 1542555511095,
+      "id": 106
+    },
+    {
+      "title": "华夏银行股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "QFII概念"
+      ],
+      "address": "北京市东城区建国门内大街22号华夏银行大厦",
+      "tel": "0772-2595998",
+      "mail": "zhdb@hxb.com.cn",
+      "homepage": "http://www.hxb.com.cn",
+      "creat_time": 1542555511106,
+      "id": 107
+    },
+    {
+      "title": "广深铁路股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "陆路运输",
+        "高铁概念股"
+      ],
+      "address": "广东省深圳市和平路1052号",
+      "tel": "0755-25588150",
+      "mail": "ir@gsrc.com",
+      "homepage": "http://www.gsrc.com",
+      "creat_time": 1542555511116,
+      "id": 108
+    },
+    {
+      "title": "安徽海螺水泥股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "水泥",
+        "保障房概念"
+      ],
+      "address": "安徽省芜湖市九华南路1011号",
+      "tel": "0553-8398927",
+      "mail": "webmaster@conch.cn",
+      "homepage": "http://www.conch.cn",
+      "creat_time": 1542555511125,
+      "id": 109
+    },
+    {
+      "title": "中国第一重型机械股份公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "机械设备",
+        "核能概念"
+      ],
+      "address": "黑龙江省齐齐哈尔市富拉尔基区红宝石办事处厂前路9号",
+      "tel": "029-86845000",
+      "mail": "liu.wj@cfhi.com",
+      "homepage": "http://www.cfhi.com",
+      "creat_time": 1542555511135,
+      "id": 110
+    },
+    {
+      "title": "风神轮胎股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "轮胎"
+      ],
+      "address": "河南省焦作市焦东南路48号",
+      "tel": "0391-3999007",
+      "mail": "lihong@aeolustyre.com",
+      "homepage": "http://www.aeolustyre.com",
+      "creat_time": 1542555511895,
+      "id": 111
+    },
+    {
+      "title": "青岛海尔股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "家用电器",
+        "太阳能"
+      ],
+      "address": "山东省青岛市崂山区海尔信息产业园内",
+      "tel": "027-86898888",
+      "mail": "finance@haier.com",
+      "homepage": "http://www.haier.com",
+      "creat_time": 1542555511902,
+      "id": 112
+    },
+    {
+      "title": "山西潞安环保能源开发股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "煤炭"
+      ],
+      "address": "山西省长治市襄垣县侯堡镇",
+      "tel": "010-84661818",
+      "mail": "la601699@163.com",
+      "homepage": "http://www.luanhn.com",
+      "creat_time": 1542555511908,
+      "id": 113
+    },
+    {
+      "title": "恒逸石化股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "北部湾"
+      ],
+      "address": "浙江省杭州市萧山区市心北路260号南岸明珠3栋",
+      "tel": "025-57073114",
+      "mail": "hysh@hengyi.com",
+      "homepage": "http://www.hengyishihua.com",
+      "creat_time": 1542555511915,
+      "id": 114
+    },
+    {
+      "title": "中国山水水泥集团有限公司",
+      "tags": [
+        "水泥",
+        "化工",
+        "500强"
+      ],
+      "address": "山东济南市长清区崮山镇山水工业园",
+      "tel": "xiaoshouzhongxin@shanshuigroup.com",
+      "mail": "http://www.shanshuigroup.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555511921,
+      "id": 115
+    },
+    {
+      "title": "海洋石油工程股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "滨海概念"
+      ],
+      "address": "天津市塘沽区丹江路1078号",
+      "tel": "025-84362700",
+      "mail": "marketing@mail.cooec.com.cn",
+      "homepage": "http://www.cnoocengineering.com",
+      "creat_time": 1542555511928,
+      "id": 116
+    },
+    {
+      "title": "中文天地出版传媒股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "出版传媒",
+        "出版"
+      ],
+      "address": "江西出版大厦（江西省南昌市阳明路 310 号）",
+      "tel": "0791-86895306",
+      "mail": "zwcm@jxpp.com",
+      "homepage": "http://www.jxpp.com",
+      "creat_time": 1542555511936,
+      "id": 117
+    },
+    {
+      "title": "内蒙古伊利实业集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "食品饮料",
+        "QFII概念"
+      ],
+      "address": "内蒙古自治区呼和浩特市金山开发区金山大道1号",
+      "tel": "0731-88807517",
+      "mail": "rxu@yili.com",
+      "homepage": "http://www.yili.com",
+      "creat_time": 1542555511943,
+      "id": 118
+    },
+    {
+      "title": "华新水泥股份有限公司",
+      "tags": [
+        "上市公司",
+        "水泥",
+        "QFII概念",
+        "国际板概念"
+      ],
+      "address": "湖北省武汉市光谷大道特1号国际企业中心5号楼",
+      "tel": "021-37602000",
+      "mail": "investor@huaxincem.com",
+      "homepage": "http://www.huaxincem.com",
+      "creat_time": 1542555511951,
+      "id": 119
+    },
+    {
+      "title": "河南神火煤电股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "煤炭"
+      ],
+      "address": "河南省永城市东城区光明路17号",
+      "tel": "0370-5982722",
+      "mail": "shenhuogufen@163.com",
+      "homepage": "http://www.shenhuo.com",
+      "creat_time": 1542555511961,
+      "id": 120
+    },
+    {
+      "title": "华润水泥控股有限公司",
+      "tags": [
+        "水泥",
+        "化工",
+        "500强"
+      ],
+      "address": "香港湾仔港湾道26号华润大厦44楼",
+      "tel": "0831-3553988",
+      "mail": "crcement@crc.com.hk",
+      "homepage": "http://www.crcement.com",
+      "creat_time": 1542555512883,
+      "id": 121
+    },
+    {
+      "title": "江苏中南建设集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "房地产",
+        "建筑"
+      ],
+      "address": "江苏省海门市常乐镇中南大厦",
+      "tel": "0513-82738286",
+      "mail": "zhongnan@zhongnangroup.cn",
+      "homepage": "http://www.zhongnanconstruction.cn",
+      "creat_time": 1542555512890,
+      "id": 122
+    },
+    {
+      "title": "湖北兴发化工集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "稀缺资源"
+      ],
+      "address": "湖北省宜昌市兴山县古夫镇高阳大道58号",
+      "tel": "025-84718288",
+      "mail": "yalicn2005@163.com",
+      "homepage": "http://www.xingfagroup.com",
+      "creat_time": 1542555512897,
+      "id": 123
+    },
+    {
+      "title": "内蒙古蒙电华能热电股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "低碳概念"
+      ],
+      "address": "内蒙古自治区呼和浩特市锡林南路工艺厂巷电力科技楼",
+      "tel": "025-52472093",
+      "mail": "nmhd@nmhdwz.com",
+      "homepage": "http://www.nmhdwz.com",
+      "creat_time": 1542555512905,
+      "id": 124
+    },
+    {
+      "title": "唐山冀东水泥股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "水泥",
+        "保障房概念"
+      ],
+      "address": "河北省唐山市丰润区林荫路",
+      "tel": "0531-88360186",
+      "mail": "zqb@jdsn.com.cn",
+      "homepage": "http://www.jdsn.com.cn",
+      "creat_time": 1542555512914,
+      "id": 125
+    },
+    {
+      "title": "三一重工股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "机械设备",
+        "高铁概念股"
+      ],
+      "address": "湖南省长沙市经济技术开发区",
+      "tel": "020-38302222",
+      "mail": "xyl@sany.com.cn",
+      "homepage": "http://www.sanyhi.com",
+      "creat_time": 1542555512921,
+      "id": 126
+    },
+    {
+      "title": "首创置业股份有限公司",
+      "tags": [
+        "房地产",
+        "500强"
+      ],
+      "address": "北京市西城区广宁伯街2号金泽大厦东区15层",
+      "tel": "0979-8448114",
+      "mail": "http://www.bjcapitalland.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555512929,
+      "id": 127
+    },
+    {
+      "title": "航天通信控股集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "非汽车交运",
+        "航天军工"
+      ],
+      "address": "浙江省杭州市解放路138号航天通信大厦一号楼",
+      "tel": "0871-7455668",
+      "mail": "stock@aerocom.cn",
+      "homepage": "http://www.aerocom.cn",
+      "creat_time": 1542555512939,
+      "id": 128
+    },
+    {
+      "title": "北京华联综合超市股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "QFII概念"
+      ],
+      "address": "北京市大兴区青云店镇祥云路北四条208号",
+      "tel": "028-85188888",
+      "mail": "zczqb@beijing-hualian.com",
+      "homepage": "http://www.beijing-hualian.com",
+      "creat_time": 1542555512947,
+      "id": 129
+    },
+    {
+      "title": "中航飞机股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "非汽车交运",
+        "航天军工"
+      ],
+      "address": "陕西省西安市阎良区西飞大道一号",
+      "tel": "029-86845000",
+      "mail": "xaic@xac.com.cn",
+      "homepage": "http://www.xac.com.cn/",
+      "creat_time": 1542555512954,
+      "id": 130
+    },
+    {
+      "title": "上海锦江国际酒店（集团）股份有限公司",
+      "tags": [
+        "酒店",
+        "服务业",
+        "500强"
+      ],
+      "address": "上海市延安东路100号26楼",
+      "tel": "0871-6287201",
+      "mail": "info@jinjianghotels.com",
+      "homepage": "http://www.jinjianghotels.com.cn",
+      "creat_time": 1542555513752,
+      "id": 131
+    },
+    {
+      "title": "长城汽车股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "汽车制造"
+      ],
+      "address": "河北省保定市朝阳南大街2266号",
+      "tel": "800-860-6016",
+      "mail": "services@gwm.com.cn",
+      "homepage": "http://www.gwm.com.cn",
+      "creat_time": 1542555513759,
+      "id": 132
+    },
+    {
+      "title": "山东黄金矿业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "黄金概念"
+      ],
+      "address": "山东省济南市舜华路2000号舜泰广场3号楼",
+      "tel": "0531-67710381",
+      "mail": "gold547@sina.com",
+      "homepage": "http://www.sdhjgf.com",
+      "creat_time": 1542555513767,
+      "id": 133
+    },
+    {
+      "title": "龙元建设集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "工程建筑"
+      ],
+      "address": "上海市逸仙路768号",
+      "tel": "010-59928888",
+      "mail": "stock@lycg.com.cn",
+      "homepage": "http://www.lycg.com.cn",
+      "creat_time": 1542555513774,
+      "id": 134
+    },
+    {
+      "title": "上海电气集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力设备",
+        "核能概念"
+      ],
+      "address": "上海市徐汇区钦江路212号",
+      "tel": "852-28271028",
+      "mail": "service@shanghai-electric.com",
+      "homepage": "http://www.shanghai-electric.com",
+      "creat_time": 1542555513779,
+      "id": 135
+    },
+    {
+      "title": "郑州煤矿机械集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "机械设备",
+        "煤炭"
+      ],
+      "address": "河南省郑州市经济技术开发区第九大街 167 号",
+      "tel": "0371-67891029",
+      "mail": "18603861796@wo.com.cn",
+      "homepage": "http://www.zzmj.com",
+      "creat_time": 1542555513787,
+      "id": 136
+    },
+    {
+      "title": "华能国际电力股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "低碳概念"
+      ],
+      "address": "北京市西城区复兴门内大街6号楼华能大厦",
+      "tel": "010-66086750",
+      "mail": "ddm@hpi.com.cn",
+      "homepage": "http://www.hpi-ir.com.hk",
+      "creat_time": 1542555513796,
+      "id": 137
+    },
+    {
+      "title": "天音通信控股股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "信托重仓"
+      ],
+      "address": "北京市西城区德外大街117号德胜尚城D座",
+      "tel": "010-58300807",
+      "mail": "tykgzqb@163.com",
+      "homepage": "http://www.chinatelling.com",
+      "creat_time": 1542555513804,
+      "id": 138
+    },
+    {
+      "title": "宝胜科技创新股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力设备",
+        "核能概念"
+      ],
+      "address": "江苏省宝应安宜镇苏中路一号",
+      "tel": "0431-85666557",
+      "mail": "baosheng@baosheng.cn",
+      "homepage": "http://www.baoshengcable.com",
+      "creat_time": 1542555513811,
+      "id": 139
+    },
+    {
+      "title": "招商局国际有限公司",
+      "tags": [
+        "港口业务",
+        "集装箱业务",
+        "500强"
+      ],
+      "address": "广东省深圳市福田区深南大道7088号",
+      "tel": "010-59115000",
+      "mail": "relation@cmhk.com",
+      "homepage": "http://www.cmhi.com.hk",
+      "creat_time": 1542555513818,
+      "id": 140
+    },
+    {
+      "title": "中芯国际集成电路制造有限公司",
+      "tags": [
+        "集成电路制造",
+        "销售",
+        "500强"
+      ],
+      "address": "上海市浦东新区张江路18号",
+      "tel": "http://www.smics.com",
+      "mail": ".contact li:nth-child(3)",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555515350,
+      "id": 141
+    },
+    {
+      "title": "安徽辉隆农资集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化肥农药",
+        "农资商贸"
+      ],
+      "address": "安徽省合肥市蜀山区祁门路1777号",
+      "tel": "021-63861818-690",
+      "mail": "hlxumin@126.com",
+      "homepage": "http://www.ahamp.com",
+      "creat_time": 1542555515358,
+      "id": 142
+    },
+    {
+      "title": "万向钱潮股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "锂电概念"
+      ],
+      "address": "浙江省杭州市萧山经济技术开发区万向路",
+      "tel": "0570-3091730",
+      "mail": "dengwen@163.com",
+      "homepage": "http://www.wxqc.com.cn",
+      "creat_time": 1542555515366,
+      "id": 143
+    },
+    {
+      "title": "深圳市怡亚通供应链股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "陆路运输",
+        "金融改革"
+      ],
+      "address": "广东省深圳市福田区深南中路3039号国际文化大厦27楼",
+      "tel": "0755-88393181",
+      "mail": "002183@eascs.com",
+      "homepage": "http://www.eascs.com",
+      "creat_time": 1542555515375,
+      "id": 144
+    },
+    {
+      "title": "中海石油化学股份有限公司",
+      "tags": [
+        "化肥",
+        "化工",
+        "500强"
+      ],
+      "address": "北京市朝阳区安贞西里3区15号凯康海油大厦1707房",
+      "tel": "022-87915010",
+      "mail": "lihe1@cnooc.com.cn",
+      "homepage": "http://www.chinabluechem.com.cn",
+      "creat_time": 1542555515384,
+      "id": 145
+    },
+    {
+      "title": "北京王府井百货(集团)股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "太阳能"
+      ],
+      "address": "北京市王府井大街253号",
+      "tel": "0536-2158177",
+      "mail": "wfjdshh@126.com",
+      "homepage": "http://www.wfj.com.cn",
+      "creat_time": 1542555515391,
+      "id": 146
+    },
+    {
+      "title": "四川长虹电器股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "家用电器",
+        "锂电概念"
+      ],
+      "address": "四川省绵阳市高新区绵兴东路35号",
+      "tel": "0816-2417949",
+      "mail": "csd@changhong.com",
+      "homepage": "http://www.changhong.com",
+      "creat_time": 1542555515398,
+      "id": 147
+    },
+    {
+      "title": "上海美特斯邦威服饰股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "纺织服装",
+        "服饰"
+      ],
+      "address": "上海市浦东新区康桥东路800号",
+      "tel": "024-25553333",
+      "mail": "gys@metersbonwe.com",
+      "homepage": "http://www.metersbonwe.com",
+      "creat_time": 1542555515405,
+      "id": 148
+    },
+    {
+      "title": "第一拖拉机股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "机械设备",
+        "农机制造"
+      ],
+      "address": "河南省洛阳市建设路154号",
+      "tel": "010-88896666",
+      "mail": "yulina@ytogroup.com",
+      "homepage": "http://www.first-tractor.com.cn",
+      "creat_time": 1542555515413,
+      "id": 149
+    },
+    {
+      "title": "苏州金螳螂建筑装饰股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "房地产开发"
+      ],
+      "address": "江苏省苏州市西环路888号",
+      "tel": "0351-6362676",
+      "mail": "jtl@goldmantis.com",
+      "homepage": "http://www.goldmantis.com",
+      "creat_time": 1542555515421,
+      "id": 150
+    },
+    {
+      "title": "海南航空股份有限公司",
+      "tags": [
+        "上市公司",
+        "航空机场",
+        "三沙概念",
+        "三通概念"
+      ],
+      "address": "海南省海口市国兴大道 7号海航大厦",
+      "tel": "021-65201818",
+      "mail": "wuqiang@hnair.com",
+      "homepage": "http://www.hnair.com",
+      "creat_time": 1542555516573,
+      "id": 151
+    },
+    {
+      "title": "山东华泰纸业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "轻工制造",
+        "纸业"
+      ],
+      "address": "山东省东营市广饶县大王镇",
+      "tel": "0546-7798848",
+      "mail": "htjtzq@163.com",
+      "homepage": "http://www.huataipaper.com",
+      "creat_time": 1542555516583,
+      "id": 152
+    },
+    {
+      "title": "山东南山铝业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "金属加工"
+      ],
+      "address": "山东省龙口市东江镇南山村",
+      "tel": "0477-8543051",
+      "mail": "nanshan@public.ytptt.sd.cn",
+      "homepage": "http://www.600219.com.cn",
+      "creat_time": 1542555516594,
+      "id": 153
+    },
+    {
+      "title": "航天信息股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "信息服务",
+        "三网融合"
+      ],
+      "address": "北京市海淀区杏石口路甲18号航天信息园",
+      "tel": "0731-28391242",
+      "mail": "master@aisino.com",
+      "homepage": "http://www.aisino.com",
+      "creat_time": 1542555516603,
+      "id": 154
+    },
+    {
+      "title": "合肥百货大楼集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "皖江区域"
+      ],
+      "address": "安徽省合肥市长江西路689号",
+      "tel": "023-61663000",
+      "mail": "daidengan@163.com",
+      "homepage": "http://www.hfbh.com.cn",
+      "creat_time": 1542555516612,
+      "id": 155
+    },
+    {
+      "title": "宁波银行股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "QFII概念"
+      ],
+      "address": "浙江省宁波市鄞州区宁南南路700号",
+      "tel": "0574-87050028",
+      "mail": "office@nbcb.cn",
+      "homepage": "http://www.nbcb.com.cn",
+      "creat_time": 1542555516621,
+      "id": 156
+    },
+    {
+      "title": "复星国际有限公司",
+      "tags": [
+        "房地产",
+        "医药",
+        "钢铁",
+        "中国500强"
+      ],
+      "address": "上海市复兴东路2号",
+      "tel": "0816-2417165",
+      "mail": "IR@fosun.com",
+      "homepage": "http://www.fosun.com",
+      "creat_time": 1542555516629,
+      "id": 157
+    },
+    {
+      "title": "重庆钢铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "低碳概念"
+      ],
+      "address": "重庆市长寿经开区钢城大道1号",
+      "tel": "0375-2726426",
+      "mail": "clarapeng@email.cqgt.cn",
+      "homepage": "http://www.cqgt.cn",
+      "creat_time": 1542555516637,
+      "id": 158
+    },
+    {
+      "title": "新希望六和股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "农林牧渔",
+        "农业龙头"
+      ],
+      "address": "四川省成都市锦江工业园区金石路376号",
+      "tel": "0755-26728686",
+      "mail": "lidb@newhopegroup.com",
+      "homepage": "http://www.newhopeagri.com",
+      "creat_time": 1542555516646,
+      "id": 159
+    },
+    {
+      "title": "大冶特殊钢股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "武汉经济圈"
+      ],
+      "address": "湖北省黄石市黄石大道316号",
+      "tel": "0535-4631040",
+      "mail": "dytg0708@163.com",
+      "homepage": "http://www.dayesteel.com.cn",
+      "creat_time": 1542555516654,
+      "id": 160
+    },
+    {
+      "title": "华润电力控股有限公司",
+      "tags": [
+        "电力",
+        "能源",
+        "500强"
+      ],
+      "address": "香港湾仔港弯道26号华润大厦20楼2001至2002室",
+      "tel": "http://www.cr-power.com",
+      "mail": ".contact li:nth-child(3)",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555517467,
+      "id": 161
+    },
+    {
+      "title": "山推工程机械股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "机械设备",
+        "机械制造"
+      ],
+      "address": "山东省济宁市高新区327国道58号",
+      "tel": "021-62781818",
+      "mail": "zjb@shantui.com",
+      "homepage": "http://www.shantui.com",
+      "creat_time": 1542555517476,
+      "id": 162
+    },
+    {
+      "title": "安踏体育用品有限公司",
+      "tags": [
+        "体育用品",
+        "服饰",
+        "500强"
+      ],
+      "address": "福建省厦门市思明区谊爱路安踏运营中心",
+      "tel": "0551-2219016",
+      "mail": "http://www.anta.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555517483,
+      "id": 163
+    },
+    {
+      "title": "荣盛房地产发展股份有限公司",
+      "tags": [
+        "上市公司",
+        "房地产开发",
+        "中国500强"
+      ],
+      "address": "河北省廊坊市新开路239号荣盛地产大厦",
+      "tel": "0562-2836952",
+      "mail": "dongmichu@risesun.cn",
+      "homepage": "http://www.risesun.cn",
+      "creat_time": 1542555517491,
+      "id": 164
+    },
+    {
+      "title": "百丽国际控股有限公司",
+      "tags": [
+        "女装鞋零售",
+        "中国500强"
+      ],
+      "address": "香港长沙湾长沙湾道918号百利大厦9楼",
+      "tel": "service@belle.com.cn",
+      "mail": "http://www.belleintl.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555517500,
+      "id": 165
+    },
+    {
+      "title": "上海交运集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "陆路运输",
+        "迪斯尼概念"
+      ],
+      "address": "上海市平武路38号仁达商务楼三楼",
+      "tel": "0371-64234256",
+      "mail": "jygf@sh163.net",
+      "homepage": "http://www.jygf.cn",
+      "creat_time": 1542555517507,
+      "id": 166
+    },
+    {
+      "title": "光明乳业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "食品饮料",
+        "农业龙头"
+      ],
+      "address": "上海市吴中路578号",
+      "tel": "021-54584520-5623",
+      "mail": "brightdairy@brightdairy.com",
+      "homepage": "http://www.brightdairy.com",
+      "creat_time": 1542555517515,
+      "id": 167
+    },
+    {
+      "title": "雅戈尔集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "纺织服装",
+        "服饰"
+      ],
+      "address": "浙江省宁波市鄞州区鄞县大道西段 2号",
+      "tel": "0431-84958888",
+      "mail": "office@youngor.com.cn",
+      "homepage": "http://www.youngor.com",
+      "creat_time": 1542555517522,
+      "id": 168
+    },
+    {
+      "title": "北京顺鑫农业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "农林牧渔",
+        "猪肉概念"
+      ],
+      "address": "北京市顺义区站前街1号院1号楼顺鑫国际商务中心12层",
+      "tel": "852-21028888",
+      "mail": "shunxjt@163.com",
+      "homepage": "http://www.000860.com",
+      "creat_time": 1542555517531,
+      "id": 169
+    },
+    {
+      "title": "康佳集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "家用电器",
+        "深圳综改"
+      ],
+      "address": "广东省深圳市南山区华侨城",
+      "tel": "0755-26608866",
+      "mail": "hjzxgdsl@konka.com",
+      "homepage": "http://www.konka.com",
+      "creat_time": 1542555517538,
+      "id": 170
+    },
+    {
+      "title": "华电国际电力股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "信托重仓"
+      ],
+      "address": "北京市西城区宣武门内大街2号",
+      "tel": "010-83567900",
+      "mail": "zhanggl@hdpi.com.cn",
+      "homepage": "http://www.hdpi.com.cn",
+      "creat_time": 1542555518963,
+      "id": 171
+    },
+    {
+      "title": "攀钢集团钢铁钒钛股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "循环经济"
+      ],
+      "address": "四川省攀枝花市东区向阳村攀钢集团钢铁钒钛股份有限公司办公大楼",
+      "tel": "400-887-8007",
+      "mail": "psv@pzhsteel.com.cn",
+      "homepage": "http://www.pzhsteel.com.cn",
+      "creat_time": 1542555518970,
+      "id": 172
+    },
+    {
+      "title": "人人乐连锁商业集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "卖场"
+      ],
+      "address": "广东省深圳市南山区前海路心语家园裙楼二层",
+      "tel": "0714-6224971",
+      "mail": "rrlshiyong@126.com",
+      "homepage": "http://www.renrenle.cn",
+      "creat_time": 1542555518976,
+      "id": 173
+    },
+    {
+      "title": "武汉武商集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "武汉经济圈"
+      ],
+      "address": "湖北省武汉市江汉区解放大道690号",
+      "tel": "010-58354309",
+      "mail": "xuanl528@163.com",
+      "homepage": "http://www.wushang.com.cn",
+      "creat_time": 1542555518983,
+      "id": 174
+    },
+    {
+      "title": "新湖中宝股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "房地产",
+        "金融改革"
+      ],
+      "address": "浙江省杭州市西溪路128号新湖商务大厦11层",
+      "tel": "0571-85171837",
+      "mail": "gaoli@600208.net",
+      "homepage": "http://www.600208.net",
+      "creat_time": 1542555518991,
+      "id": 175
+    },
+    {
+      "title": "厦门厦工机械股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "机械设备",
+        "三通概念"
+      ],
+      "address": "福建省厦门市灌口南路668号之八",
+      "tel": "0592-6389300",
+      "mail": "xgcad@public.xm.fj.cn",
+      "homepage": "http://www.xgma.com.cn",
+      "creat_time": 1542555518997,
+      "id": 176
+    },
+    {
+      "title": "华域汽车系统股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "机械制造"
+      ],
+      "address": "上海市威海路489号",
+      "tel": "021-34059888",
+      "mail": "huayuqiche@huayu-auto.com",
+      "homepage": "http://www.huayu-auto.com",
+      "creat_time": 1542555519003,
+      "id": 177
+    },
+    {
+      "title": "苏宁云商集团股份有限公司",
+      "tags": [
+        "电商",
+        "家电",
+        "500强"
+      ],
+      "address": "江苏省南京市玄武区徐庄软件园苏宁大道1号",
+      "tel": "4008-198-198",
+      "mail": "http://www.suning.cn/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555519010,
+      "id": 178
+    },
+    {
+      "title": "郑州煤电股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "煤炭"
+      ],
+      "address": "河南省郑州市中原西路188号",
+      "tel": "0371-87785121",
+      "mail": "zzce@zmjt.cn",
+      "homepage": "http://www.zzce.com.cn",
+      "creat_time": 1542555519019,
+      "id": 179
+    },
+    {
+      "title": "TCL集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "家用电器",
+        "涉矿概念"
+      ],
+      "address": "广东省惠州市仲恺高新区惠风三路17号TCL科技大厦",
+      "tel": "852-28202111",
+      "mail": "4008123456@tcl.com",
+      "homepage": "http://www.tcl.com",
+      "creat_time": 1542555519034,
+      "id": 180
+    },
+    {
+      "title": "海尔电器集团有限公司",
+      "tags": [
+        "家电",
+        "电器制造",
+        "500强"
+      ],
+      "address": "山东省青岛市崂山区海尔信息产业园内",
+      "tel": "0315-7181566",
+      "mail": "service@haierhk.com",
+      "homepage": "http://www.haier-elec.com.hk",
+      "creat_time": 1542555521640,
+      "id": 181
+    },
+    {
+      "title": "浙江亚厦装饰股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "建筑装饰"
+      ],
+      "address": "浙江省杭州市望江东路299号冠盛大厦",
+      "tel": "0512-55181355",
+      "mail": "zs@yashazs.com",
+      "homepage": "http://www.yashazs.com",
+      "creat_time": 1542555521650,
+      "id": 182
+    },
+    {
+      "title": "玖龙纸业(控股)有限公司",
+      "tags": [
+        "纸业",
+        "精细化工",
+        "500强"
+      ],
+      "address": "香港湾仔港湾道30号新鸿基中心31楼3129室",
+      "tel": "021-65966666",
+      "mail": "info_dg@ndpaper.com",
+      "homepage": "http://www.ndpaper.com",
+      "creat_time": 1542555521658,
+      "id": 183
+    },
+    {
+      "title": "首长国际企业有限公司",
+      "tags": [
+        "矿产",
+        "钢铁",
+        "500强"
+      ],
+      "address": "香港湾仔告士打道56号东亚银行港湾中心7楼",
+      "tel": "0757-28362000",
+      "mail": "Info@shougang-intl.com.hk",
+      "homepage": "http://www.shougang-intl.com.hk",
+      "creat_time": 1542555521668,
+      "id": 184
+    },
+    {
+      "title": "新疆金风科技股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力设备",
+        "新疆开发概念"
+      ],
+      "address": "新疆维吾尔自治区乌鲁木齐市经济技术开发区上海路107号",
+      "tel": "0991-3767495",
+      "mail": "goldwind@goldwind.cn",
+      "homepage": "http://www.goldwind.cn",
+      "creat_time": 1542555521681,
+      "id": 185
+    },
+    {
+      "title": "中国建筑国际集团有限公司",
+      "tags": [
+        "500强"
+      ],
+      "address": "香港湾仔轩尼诗道139号中国海外大厦28楼",
+      "tel": "010-68701140",
+      "mail": "dpr@cohl.com",
+      "homepage": "http://www.csci.com.hk",
+      "creat_time": 1542555521690,
+      "id": 186
+    },
+    {
+      "title": "福建省厦门象屿股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "陆路运输",
+        "三通概念"
+      ],
+      "address": "福建省厦门市象屿保税区银盛大厦二楼",
+      "tel": "0592-5603375",
+      "mail": "stock@xiangyu.cn",
+      "homepage": "http://www.xiangyu.cn",
+      "creat_time": 1542555521699,
+      "id": 187
+    },
+    {
+      "title": "中国长江电力股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "水电"
+      ],
+      "address": "北京市西城区金融大街19号富凯大厦B座",
+      "tel": "852-25233137",
+      "mail": "cypc@cypc.com.cn",
+      "homepage": "http://www.cypc.com.cn",
+      "creat_time": 1542555521710,
+      "id": 188
+    },
+    {
+      "title": "雅居乐地产控股有限公司",
+      "tags": [
+        "500强"
+      ],
+      "address": "广东省中山市三乡镇金涌大道雅居乐酒店",
+      "tel": "852-29152898",
+      "mail": "ir@agile.com.cn",
+      "homepage": "http://www.agile.com.cn",
+      "creat_time": 1542555521719,
+      "id": 189
+    },
+    {
+      "title": "广州市广百股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "南沙新区概念"
+      ],
+      "address": "广东省广州市越秀区西湖路12号10-12楼",
+      "tel": "020-83322348",
+      "mail": "grandbuyoffice@163.com",
+      "homepage": "http://www.grandbuy.com.cn",
+      "creat_time": 1542555521727,
+      "id": 190
+    },
+    {
+      "title": "桐昆集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "涤纶"
+      ],
+      "address": "浙江省桐乡市经济开发区光明路199号",
+      "tel": "027-84287900",
+      "mail": "freedomshr@126.com",
+      "homepage": "http://www.zjtkjt.com",
+      "creat_time": 1542555522680,
+      "id": 191
+    },
+    {
+      "title": "广州东凌粮油股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "农林牧渔",
+        "南沙新区概念"
+      ],
+      "address": "广东省广州市珠江新城华夏路8号国际金融广场28楼",
+      "tel": "020-85506292",
+      "mail": "stock@dongling.cn",
+      "homepage": "http://www.dongling.cn",
+      "creat_time": 1542555522689,
+      "id": 192
+    },
+    {
+      "title": "广州富力地产股份有限公司",
+      "tags": [
+        "房地产",
+        "开发管理",
+        "中国500强"
+      ],
+      "address": "广东省广州市珠江新城华夏路10号富力中心45-54楼",
+      "tel": "0551-2296666",
+      "mail": "http://www.rfchina.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555522698,
+      "id": 193
+    },
+    {
+      "title": "一汽轿车股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "图们江区域"
+      ],
+      "address": "吉林省长春市高新技术产业开发区蔚山路4888号",
+      "tel": "852-28237888",
+      "mail": "fawcar0800@faw.com.cn",
+      "homepage": "http://www.fawcar.com.cn",
+      "creat_time": 1542555522707,
+      "id": 194
+    },
+    {
+      "title": "经纬纺织机械股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "机械设备",
+        "纺织"
+      ],
+      "address": "北京市朝阳区亮马桥路39号第一上海中心七层",
+      "tel": "0755-83793891",
+      "mail": "ql@jwgf.com",
+      "homepage": "http://www.jwgf.com",
+      "creat_time": 1542555522714,
+      "id": 195
+    },
+    {
+      "title": "新华人寿保险股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "证券",
+        "信托"
+      ],
+      "address": "北京市朝阳区建国门外大街甲12号新华保险大厦",
+      "tel": "010-85213233",
+      "mail": "e@newchinalife.com",
+      "homepage": "http://www.newchinalife.com",
+      "creat_time": 1542555522722,
+      "id": 196
+    },
+    {
+      "title": "浙江英特集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "医药生物",
+        "新医药概念"
+      ],
+      "address": "浙江省杭州市滨江区江南大道96号中化大厦",
+      "tel": "0571-85067873",
+      "mail": "ytyyxxb@intmedic.com",
+      "homepage": "http://www.intmedic.com",
+      "creat_time": 1542555522731,
+      "id": 197
+    },
+    {
+      "title": "京东方科技集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "电子元器件",
+        "中国500强"
+      ],
+      "address": "北京市朝阳区酒仙桥路10号",
+      "tel": "0755-82769268",
+      "mail": "pr@boe.com.cn",
+      "homepage": "http://www.boe.com.cn",
+      "creat_time": 1542555522738,
+      "id": 198
+    },
+    {
+      "title": "铜陵精达特种电磁线股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "机械设备",
+        "特种电磁线生产"
+      ],
+      "address": "安徽省铜陵市经济技术开发区黄山大道北段988号",
+      "tel": "0562-2809086",
+      "mail": "jingda@jingda.cn",
+      "homepage": "http://www.jingda.cn",
+      "creat_time": 1542555522746,
+      "id": 199
+    },
+    {
+      "title": "上海申华控股股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "风能概念"
+      ],
+      "address": "上海市宁波路1号",
+      "tel": "021-60955888",
+      "mail": "stock@600653.com.cn",
+      "homepage": "http://www.600653.com.cn",
+      "creat_time": 1542555522756,
+      "id": 200
+    },
+    {
+      "title": "中海油田服务股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "海外收购"
+      ],
+      "address": "北京市东城区朝阳门内大街2号，凯恒大厦B座11层10号（1110室）",
+      "tel": "800-857-3168",
+      "mail": "cosl@cosl.com.cn",
+      "homepage": "http://www.cosl.com.cn",
+      "creat_time": 1542555523516,
+      "id": 201
+    },
+    {
+      "title": "河南双汇投资发展股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "食品饮料",
+        "国际板概念"
+      ],
+      "address": "河南省漯河市双汇路 1 号双汇大厦",
+      "tel": "0395-2676530",
+      "mail": "lyz1632@tom.com",
+      "homepage": "http://www.shuanghui.net",
+      "creat_time": 1542555523524,
+      "id": 202
+    },
+    {
+      "title": "金科地产集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "房地产",
+        "QFII概念"
+      ],
+      "address": "重庆市北部新区春兰三路 1 号地矿大厦 10 楼",
+      "tel": "023-63023656",
+      "mail": "ir@jinke.com",
+      "homepage": "http://www.jinke.com",
+      "creat_time": 1542555523530,
+      "id": 203
+    },
+    {
+      "title": "华北制药股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "医药生物",
+        "超级细菌"
+      ],
+      "address": "河北省石家庄市和平东路388号",
+      "tel": "021-63264000",
+      "mail": "salers@ncpc.com",
+      "homepage": "http://www.ncpc.com",
+      "creat_time": 1542555523538,
+      "id": 204
+    },
+    {
+      "title": "北汽福田汽车股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "新能源电池"
+      ],
+      "address": "北京市昌平区沙河镇沙阳路老牛湾村北",
+      "tel": "852-28330606",
+      "mail": "chenweijuan@foton.com.cn",
+      "homepage": "http://www.foton.com.cn",
+      "creat_time": 1542555523546,
+      "id": 205
+    },
+    {
+      "title": "福耀玻璃工业集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "海西概念"
+      ],
+      "address": "福建省福清市福耀工业村II区",
+      "tel": "023-67720555",
+      "mail": "feg@fuyaogroup.com",
+      "homepage": "http://www.fuyaogroup.com",
+      "creat_time": 1542555523552,
+      "id": 206
+    },
+    {
+      "title": "烽火通信科技股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "通信设备",
+        "ipv6概念"
+      ],
+      "address": "湖北省武汉市洪山区关东科技园东信路6号",
+      "tel": "027-87693885",
+      "mail": "wriwh@fiberhome.com.cn",
+      "homepage": "http://www.fiberhome.com.cn",
+      "creat_time": 1542555523560,
+      "id": 207
+    },
+    {
+      "title": "河南大有能源股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "煤炭"
+      ],
+      "address": "河南省义马市千秋路6号",
+      "tel": "027-86621111",
+      "mail": "ymjtxw@163.com",
+      "homepage": "http://www.yimeijt.com",
+      "creat_time": 1542555523568,
+      "id": 208
+    },
+    {
+      "title": "贵州茅台酒股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "食品饮料",
+        "奢侈品"
+      ],
+      "address": "贵州省仁怀市茅台镇",
+      "tel": "010-63706000",
+      "mail": "webmaster@moutaichina.com",
+      "homepage": "http://www.moutaichina.com",
+      "creat_time": 1542555523576,
+      "id": 209
+    },
+    {
+      "title": "潍柴动力股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "汽车零部件制造"
+      ],
+      "address": "山东省潍坊市高新技术产业开发区福寿东街197号甲",
+      "tel": "010-51862017",
+      "mail": "15269639799@163.com",
+      "homepage": "http://www.weichai.com",
+      "creat_time": 1542555523585,
+      "id": 210
+    },
+    {
+      "title": "山东金正大生态工程股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化肥农药",
+        "肥料研发"
+      ],
+      "address": "山东省临沂市临沭县兴大西街19号",
+      "tel": "021-67288888",
+      "mail": "zhuobaoshan@kingenta.com",
+      "homepage": "http://www.kingenta.com",
+      "creat_time": 1542555525942,
+      "id": 211
+    },
+    {
+      "title": "上海大屯能源股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "煤炭"
+      ],
+      "address": "上海市浦东新区浦东南路256号(华夏银行大厦12层)",
+      "tel": "021-68864621",
+      "mail": "shdtny@sh163.net",
+      "homepage": "http://www.sdtny.com",
+      "creat_time": 1542555525949,
+      "id": 212
+    },
+    {
+      "title": "河南中孚实业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "铝业"
+      ],
+      "address": "河南省巩义市新华路31号",
+      "tel": "0790-6860228",
+      "mail": "yangping@zfsy.com.cn",
+      "homepage": "http://www.zfsy.com.cn",
+      "creat_time": 1542555525956,
+      "id": 213
+    },
+    {
+      "title": "中国东方航空股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "航空机场",
+        "三通概念"
+      ],
+      "address": "上海市长宁区空港三路92号",
+      "tel": "010-58868888",
+      "mail": "ir@ceair.com",
+      "homepage": "http://www.ceair.com",
+      "creat_time": 1542555525963,
+      "id": 214
+    },
+    {
+      "title": "山西兰花科技创业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "低碳概念"
+      ],
+      "address": "山西省晋城市凤台东街2288号兰花科技大厦",
+      "tel": "0357-6626291",
+      "mail": "lhjjb@chinalanhua.cn",
+      "homepage": "http://www.chinalanhua.com",
+      "creat_time": 1542555525974,
+      "id": 215
+    },
+    {
+      "title": "徐工集团工程机械股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "机械设备",
+        "高铁概念股"
+      ],
+      "address": "江苏省徐州经济开发区工业一区",
+      "tel": "0597-3833105",
+      "mail": "service@xcmg.com",
+      "homepage": "http://www.xcmg.com",
+      "creat_time": 1542555525980,
+      "id": 216
+    },
+    {
+      "title": "大唐华银电力股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "涉矿概念"
+      ],
+      "address": "湖南省长沙市芙蓉中路三段255号",
+      "tel": "010-84427788",
+      "mail": "hy600744@188.com",
+      "homepage": "http://www.hypower.com.cn",
+      "creat_time": 1542555525987,
+      "id": 217
+    },
+    {
+      "title": "杭州钢铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "钢铁",
+        "金属",
+        "钢铁加工"
+      ],
+      "address": "浙江省杭州市拱墅区半山路178号",
+      "tel": "0571-88132917",
+      "mail": "hzis@mail.hz.zj.cn",
+      "homepage": "http://www.hzsteel.com",
+      "creat_time": 1542555525995,
+      "id": 218
+    },
+    {
+      "title": "江苏宏图高科技股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "信托重仓"
+      ],
+      "address": "江苏省南京市中山北路219号",
+      "tel": "025-83274691",
+      "mail": "hiteker@hiteker.cn",
+      "homepage": "http://www.hiteker.cn",
+      "creat_time": 1542555526001,
+      "id": 219
+    },
+    {
+      "title": "宁波港股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "港口水运",
+        "船舶"
+      ],
+      "address": "浙江省宁波市北仑区明州路301号宁波港大厦",
+      "tel": "010-82287799",
+      "mail": "jiangw@nbport.com.cn",
+      "homepage": "http://www.nbport.com.cn",
+      "creat_time": 1542555526008,
+      "id": 220
+    },
+    {
+      "title": "甘肃酒钢集团宏兴钢铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "金属加工"
+      ],
+      "address": "甘肃省嘉峪关市雄关东路12号",
+      "tel": "4006-999-999",
+      "mail": "shfw@jiugang",
+      "homepage": "http://www.jisco.cn/structure/hongxinggufen.htm",
+      "creat_time": 1542555526704,
+      "id": 221
+    },
+    {
+      "title": "中国雨润食品集团有限公司",
+      "tags": [
+        "食品加工",
+        "500强"
+      ],
+      "address": "南京市建邺区雨润路10号",
+      "tel": "020-88839888",
+      "mail": "http://www.yurun.com.hk",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555526713,
+      "id": 222
+    },
+    {
+      "title": "云南铜业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "股指期货"
+      ],
+      "address": "云南省昆明市人民东路111号",
+      "tel": "852-36029800",
+      "mail": "yncopper@yunnan-copper.com",
+      "homepage": "http://www.yunnan-copper.com",
+      "creat_time": 1542555526723,
+      "id": 223
+    },
+    {
+      "title": "厦门建发股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "陆路运输",
+        "海西概念"
+      ],
+      "address": "福建省厦门市鹭江道52 号海滨大厦七楼",
+      "tel": "0592-2132319",
+      "mail": "wplee@chinacnd.com",
+      "homepage": "http://www.chinacnd.com",
+      "creat_time": 1542555526730,
+      "id": 224
+    },
+    {
+      "title": "天士力制药集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "医药生物",
+        "滨海概念"
+      ],
+      "address": "天津市北辰区普济河东道2 号（天士力现代中药城）",
+      "tel": "022-26736999",
+      "mail": "secretary@tasly.com",
+      "homepage": "http://www.tasly.com",
+      "creat_time": 1542555526737,
+      "id": 225
+    },
+    {
+      "title": "深圳市爱施德股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "移动通信硬件"
+      ],
+      "address": "广东省深圳市福田区泰然大道东泰然劲松大厦20F",
+      "tel": "0755-21519888",
+      "mail": "ir@aisidi.com",
+      "homepage": "http://www.aisidi.com",
+      "creat_time": 1542555526744,
+      "id": 226
+    },
+    {
+      "title": "江苏宁沪高速公路股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "陆路运输",
+        "交通基础设施建设"
+      ],
+      "address": "江苏省南京市仙林大道6号",
+      "tel": "025-86895000",
+      "mail": "nhgs@nhgs.cn",
+      "homepage": "http://www.jsexpressway.com",
+      "creat_time": 1542555526751,
+      "id": 227
+    },
+    {
+      "title": "内蒙古包钢钢联股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "涉矿概念"
+      ],
+      "address": "内蒙古自治区包头市包钢信息大楼东副楼",
+      "tel": "010-82228850",
+      "mail": "glgfzqb@126.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555526757,
+      "id": 228
+    },
+    {
+      "title": "中国光大银行股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "投资"
+      ],
+      "address": "北京市西城区太平桥大街25号中国光大中心",
+      "tel": "010-63636388",
+      "mail": "ir@cebbank.com",
+      "homepage": "http://www.cebbank.com",
+      "creat_time": 1542555526764,
+      "id": 229
+    },
+    {
+      "title": "上海物资贸易股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "金属"
+      ],
+      "address": "上海市南苏州路325号",
+      "tel": "027-84285000",
+      "mail": "600822@shwuzi.com",
+      "homepage": "http://www.600822sh.com",
+      "creat_time": 1542555526770,
+      "id": 230
+    },
+    {
+      "title": "中国食品有限公司",
+      "tags": [
+        "食品生产",
+        "加工",
+        "500强"
+      ],
+      "address": "香港铜锣湾告士打道262号鹏利中心33楼",
+      "tel": "chinafoods@cofco.com",
+      "mail": "http://www.chinafoodsltd.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555529220,
+      "id": 231
+    },
+    {
+      "title": "宜宾五粮液股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "食品饮料",
+        "奢侈品"
+      ],
+      "address": "四川省宜宾市翠屏区岷江西路150号",
+      "tel": "0831-3566858",
+      "mail": "000858-wly@sohu.com",
+      "homepage": "http://www.wuliangye.com.cn",
+      "creat_time": 1542555529226,
+      "id": 232
+    },
+    {
+      "title": "中国有色金属建设股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "稀缺资源"
+      ],
+      "address": "北京市朝阳区安定路10号中国有色大厦",
+      "tel": "0512-82272000",
+      "mail": "nfc@nfc-china.com",
+      "homepage": "http://www.nfc.com.cn",
+      "creat_time": 1542555529233,
+      "id": 233
+    },
+    {
+      "title": "中国南方航空股份有限公司",
+      "tags": [
+        "航空运输"
+      ],
+      "address": "广东省广州经济技术开发区",
+      "tel": "95539",
+      "mail": "jtxx@csair.com",
+      "homepage": "http://www.csair.com/",
+      "creat_time": 1542555529240,
+      "id": 234
+    },
+    {
+      "title": "中化化肥控股有限公司",
+      "tags": [
+        "化肥生产",
+        "化工",
+        "500强"
+      ],
+      "address": "香港湾仔港湾道1号会展广场办公大楼46楼4601-4610室",
+      "tel": "810-62295900",
+      "mail": "http://www.sinofert.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555529246,
+      "id": 235
+    },
+    {
+      "title": "安徽江淮汽车股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "新能源电池"
+      ],
+      "address": "安徽省合肥市东流路176号",
+      "tel": "0551-2296835",
+      "mail": "jqgf@jac.com.cn",
+      "homepage": "http://www.jac.com.cn",
+      "creat_time": 1542555529252,
+      "id": 236
+    },
+    {
+      "title": "山西西山煤电股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "循环经济"
+      ],
+      "address": "山西省太原市西矿街318号",
+      "tel": "852-21809050",
+      "mail": "zqb000983@163.com",
+      "homepage": "http://www.xsmd.com.cn",
+      "creat_time": 1542555529259,
+      "id": 237
+    },
+    {
+      "title": "龙湖地产有限公司",
+      "tags": [
+        "房地产开发",
+        "经营",
+        "500强"
+      ],
+      "address": "北京朝阳区惠新东街4号富盛大厦2座7楼",
+      "tel": "0755-33311001",
+      "mail": "http://www.longfor.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555529267,
+      "id": 238
+    },
+    {
+      "title": "浙江东方集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "金融改革"
+      ],
+      "address": "浙江省杭州市西湖大道12号",
+      "tel": "0571-89880888",
+      "mail": "dongfang@zjorient.com",
+      "homepage": "http://www.zjorient.com",
+      "creat_time": 1542555529273,
+      "id": 239
+    },
+    {
+      "title": "昆仑能源有限公司",
+      "tags": [
+        "石油",
+        "能源",
+        "500强"
+      ],
+      "address": "香港干诺道西118号39楼",
+      "tel": "021-64833388",
+      "mail": "info@kunlun.com.hk",
+      "homepage": "http://www.kunlun.com.hk",
+      "creat_time": 1542555529284,
+      "id": 240
+    },
+    {
+      "title": "中百控股集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "QFII概念"
+      ],
+      "address": "湖北省武汉市硚口区古田二路南泥湾大道65-71号汇丰企业总部8号楼B座",
+      "tel": "010-12306",
+      "mail": "whzbcw@163.com",
+      "homepage": "http://www.whzb.com",
+      "creat_time": 1542555530896,
+      "id": 241
+    },
+    {
+      "title": "蓝星化工新材料股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "摘帽预期"
+      ],
+      "address": "北京市朝阳区北土城西路9号六层",
+      "tel": "020-87011888",
+      "mail": "xcl-008@star-nm.com",
+      "homepage": "http://www.star-nm.com",
+      "creat_time": 1542555530901,
+      "id": 242
+    },
+    {
+      "title": "金堆城钼业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "低碳概念"
+      ],
+      "address": "陕西省西安市高新技术产业开发区锦业一路88号金钼股份综合楼A座",
+      "tel": "0552-4926206",
+      "mail": "jck@jdcmmc.com",
+      "homepage": "http://www.jdcmoly.com",
+      "creat_time": 1542555530908,
+      "id": 243
+    },
+    {
+      "title": "青岛啤酒股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "食品饮料",
+        "QFII概念"
+      ],
+      "address": "山东省青岛市香港中路五四广场青啤大厦",
+      "tel": "400-800-4488",
+      "mail": "secretary@tsingtao.com.cn",
+      "homepage": "http://www.tsingtao.com.cn",
+      "creat_time": 1542555530915,
+      "id": 244
+    },
+    {
+      "title": "国药集团药业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "医药生物",
+        "中国500强"
+      ],
+      "address": "北京市东城区永外三元西巷甲12号",
+      "tel": "025-82766978",
+      "mail": "webmaster@sinopharm.com",
+      "homepage": "http://www.cncm.com.cn",
+      "creat_time": 1542555530925,
+      "id": 245
+    },
+    {
+      "title": "新余钢铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "金属加工"
+      ],
+      "address": "江西省新余市冶金路 1号",
+      "tel": "0790-6290782",
+      "mail": "xggf782@xinsteel.com.cn",
+      "homepage": "http://www.xinsteel.com.cn",
+      "creat_time": 1542555530931,
+      "id": 246
+    },
+    {
+      "title": "比亚迪电子(国际)有限公司",
+      "tags": [
+        "手机零部件生产",
+        "500强"
+      ],
+      "address": "广东省深圳市坪山新区比亚迪路3009号",
+      "tel": "852-25268368",
+      "mail": "http://www.byd-electronic.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555530936,
+      "id": 247
+    },
+    {
+      "title": "中信证券股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "证券",
+        "信托"
+      ],
+      "address": "广东省深圳市福田区中心三路8号中信证券大厦;北京市朝阳区亮马桥路48号中信证券大厦",
+      "tel": "010-66001188",
+      "mail": "ir@citics.com",
+      "homepage": "http://www.cs.ecitic.com",
+      "creat_time": 1542555530942,
+      "id": 248
+    },
+    {
+      "title": "神马实业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "尼龙"
+      ],
+      "address": "河南省平顶山市建设路63号",
+      "tel": "0375-3921231",
+      "mail": "pdsfw@126.com",
+      "homepage": "http://www.shenma.com",
+      "creat_time": 1542555530950,
+      "id": 249
+    },
+    {
+      "title": "云南锡业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "稀缺资源"
+      ],
+      "address": "云南省个旧市金湖东路121号",
+      "tel": "0371-64569099",
+      "mail": "xygf000960@ytc.cn",
+      "homepage": "http://www.ytl.com.cn",
+      "creat_time": 1542555530959,
+      "id": 250
+    },
+    {
+      "title": "东方国际创业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "迪斯尼概念"
+      ],
+      "address": "上海市娄山关路85号A座",
+      "tel": "021-62785521",
+      "mail": "oiehq@oie.com.cn",
+      "homepage": "http://www.oie.com.cn",
+      "creat_time": 1542555538890,
+      "id": 251
+    },
+    {
+      "title": "浙江海亮股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "涉矿概念"
+      ],
+      "address": "浙江省诸暨市店口镇工业区",
+      "tel": "0575-87669333",
+      "mail": "gfoffice@hailiang.com",
+      "homepage": "http://www.hailiang.com",
+      "creat_time": 1542555538896,
+      "id": 252
+    },
+    {
+      "title": "海通证券股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "证券",
+        "信托"
+      ],
+      "address": "上海市广东路689号海通证券大厦",
+      "tel": "0757-85660491",
+      "mail": "web@htsec.com",
+      "homepage": "http://www.htsec.com",
+      "creat_time": 1542555538905,
+      "id": 253
+    },
+    {
+      "title": "中国北车股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "非汽车交运",
+        "高铁概念股"
+      ],
+      "address": "北京市丰台区芳城园一区15号楼",
+      "tel": "010-51897290",
+      "mail": "ir@chinacnr.com",
+      "homepage": "http://www.chinacnr.com",
+      "creat_time": 1542555538913,
+      "id": 254
+    },
+    {
+      "title": "长春欧亚集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "QFII概念"
+      ],
+      "address": "吉林省长春市绿园区南阳路418号",
+      "tel": "0431-85765337",
+      "mail": "ccoyjt@sina.com",
+      "homepage": "http://www.cn-eurasiagroup.com",
+      "creat_time": 1542555538920,
+      "id": 255
+    },
+    {
+      "title": "荣盛石化股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "化纤"
+      ],
+      "address": "浙江省杭州市萧山区益农镇浙江荣盛控股集团大楼",
+      "tel": "852-25119968",
+      "mail": "master@cnrspc.com",
+      "homepage": "http://www.cnrspc.com",
+      "creat_time": 1542555538929,
+      "id": 256
+    },
+    {
+      "title": "西部矿业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "稀缺资源"
+      ],
+      "address": "青海省西宁市五四大街52号",
+      "tel": "0532-85711119",
+      "mail": "huhd@westmining.com",
+      "homepage": "http://www.westmining.com",
+      "creat_time": 1542555538936,
+      "id": 257
+    },
+    {
+      "title": "厦门信达股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "综合",
+        "手机支付概念"
+      ],
+      "address": "福建省厦门市湖里区兴隆路27 号信息大厦第七层",
+      "tel": "0315-3083355",
+      "mail": "xmxd@xindeco.com.cn",
+      "homepage": "http://www.xindeco.com",
+      "creat_time": 1542555538944,
+      "id": 258
+    },
+    {
+      "title": "网易公司",
+      "tags": [
+        "互联网",
+        "电子商务",
+        "500强"
+      ],
+      "address": "广州市天河区科韵路16号广州信息港E栋网易大厦",
+      "tel": "020-83568090",
+      "mail": "shsales@service.netease.com",
+      "homepage": "http://www.netease.com",
+      "creat_time": 1542555538951,
+      "id": 259
+    },
+    {
+      "title": "中金黄金股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "黄金概念"
+      ],
+      "address": "北京市东城区安定门外大街9号",
+      "tel": "0790-6292925",
+      "mail": "sxb@zjgold.com",
+      "homepage": "http://www.zjgold.com",
+      "creat_time": 1542555538958,
+      "id": 260
+    },
+    {
+      "title": "绿城中国控股有限公司",
+      "tags": [
+        "房地产开发",
+        "管理",
+        "500强"
+      ],
+      "address": "浙江省杭州市杭大路1号黄龙世纪广场A座10楼",
+      "tel": "0571-82520192",
+      "mail": "ir@chinagreentown.com",
+      "homepage": "http://www.greentownchina.com",
+      "creat_time": 1542555539785,
+      "id": 261
+    },
+    {
+      "title": "柳州钢铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "金属加工"
+      ],
+      "address": "广西壮族自治区柳州市北雀路117号",
+      "tel": "0353-7078618",
+      "mail": "liscl@163.com",
+      "homepage": "http://www.liusteel.com",
+      "creat_time": 1542555539792,
+      "id": 262
+    },
+    {
+      "title": "本钢板材股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "金属加工"
+      ],
+      "address": "辽宁省本溪市平山区人民路16号",
+      "tel": "0414-7828010",
+      "mail": "bgbc761@126.com",
+      "homepage": "http://www.bxsteel.com/HomePage.html",
+      "creat_time": 1542555539799,
+      "id": 263
+    },
+    {
+      "title": "北京首都开发股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "房地产",
+        "保障房概念"
+      ],
+      "address": "北京市西城区复兴门内大街156号招商国际金融中心D座",
+      "tel": "010-66428113",
+      "mail": "bcdc@bcdh.com.cn",
+      "homepage": "http://www.shoukaigufen.com",
+      "creat_time": 1542555539806,
+      "id": 264
+    },
+    {
+      "title": "招商局地产控股股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "房地产",
+        "保障房概念"
+      ],
+      "address": "广东省深圳南山区蛇口兴华路6号南海意库3号楼",
+      "tel": "0852-23055128",
+      "mail": "investor@cmpd.cn",
+      "homepage": "http://www.cmpd.cn",
+      "creat_time": 1542555539812,
+      "id": 265
+    },
+    {
+      "title": "保利房地产(集团)股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "房地产",
+        "保障房概念"
+      ],
+      "address": "广东省广州市海珠区阅江中路 688 号保利国际广场北塔 29-33 层",
+      "tel": "010-82707777",
+      "mail": "stock@polycn.com",
+      "homepage": "http://www.polycn.com",
+      "creat_time": 1542555539820,
+      "id": 266
+    },
+    {
+      "title": "青海盐湖工业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化肥农药",
+        "稀缺资源"
+      ],
+      "address": "青海省格尔木市黄河路28号",
+      "tel": "0555-8323600",
+      "mail": "qhyhgf@qhyhgf.com",
+      "homepage": "http://www.qhyhgf.com",
+      "creat_time": 1542555539828,
+      "id": 267
+    },
+    {
+      "title": "湖北宜化化工股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化肥农药",
+        "化工"
+      ],
+      "address": "北京市丰台区南四环西路188号总部基地15区3号楼",
+      "tel": "852-31186800",
+      "mail": "zyj@hbyh.cn",
+      "homepage": "http://www.hbyh.cn",
+      "creat_time": 1542555539834,
+      "id": 268
+    },
+    {
+      "title": "神州数码控股有限公司",
+      "tags": [
+        "数码产品",
+        "500强"
+      ],
+      "address": "香港鲗鱼涌英皇道979号太古坊德宏大厦20层2008室",
+      "tel": "info@digitalchina.com",
+      "mail": "http://www.digitalchina.com.hk",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555539842,
+      "id": 269
+    },
+    {
+      "title": "厦门国贸集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "太阳能"
+      ],
+      "address": "福建省厦门市思明区湖滨南路国贸大厦18 层",
+      "tel": "0310-4041425",
+      "mail": "chenhong@itg.com.cn",
+      "homepage": "http://www.itg.com.cn",
+      "creat_time": 1542555539850,
+      "id": 270
+    },
+    {
+      "title": "广州发展集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "节能环保"
+      ],
+      "address": "广东省广州市天河区临江大道3号28-30楼",
+      "tel": "0510-83704003",
+      "mail": "gzkg600098@gdih.cn",
+      "homepage": "http://www.gdih.cn",
+      "creat_time": 1542555547777,
+      "id": 271
+    },
+    {
+      "title": "深圳能源集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "风能概念"
+      ],
+      "address": "广东省深圳市区福田区深南中路2068 号华能大厦5，33，35-36，38-41 层",
+      "tel": "0512-58672189",
+      "mail": "tg@sec.com.cn",
+      "homepage": "http://www.sec.com.cn",
+      "creat_time": 1542555547786,
+      "id": 272
+    },
+    {
+      "title": "上海振华重工(集团)股份有限公司",
+      "tags": [
+        "上市公司",
+        "机械设备",
+        "风能概念",
+        "证券交易"
+      ],
+      "address": "上海市东方路3261号",
+      "tel": "010-58688999",
+      "mail": "mail@zpmc.com",
+      "homepage": "http://www.zpmc.com",
+      "creat_time": 1542555547808,
+      "id": 273
+    },
+    {
+      "title": "宁波建工股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "建筑"
+      ],
+      "address": "浙江省宁波市江东区宁穿路538号",
+      "tel": "0537-7925888",
+      "mail": "veichxh@163.com",
+      "homepage": "http://www.jiangong.com.cn",
+      "creat_time": 1542555547818,
+      "id": 274
+    },
+    {
+      "title": "云南铝业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "金属加工"
+      ],
+      "address": "云南省昆明市呈贡区",
+      "tel": "0755-25199999",
+      "mail": "info@ylgf.com",
+      "homepage": "http://www.ylgf.com",
+      "creat_time": 1542555547828,
+      "id": 275
+    },
+    {
+      "title": "梅花生物科技集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "食品饮料",
+        "西藏区域"
+      ],
+      "address": "河北省廊坊市经济开发区华祥路66号",
+      "tel": "4008-600-973",
+      "mail": "meihua@meihuagrp.com",
+      "homepage": "http://www.meihuagrp.com",
+      "creat_time": 1542555547836,
+      "id": 276
+    },
+    {
+      "title": "四川路桥建设股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "桥梁建设"
+      ],
+      "address": "四川省成都市高新区九兴大道12号",
+      "tel": "028-85126085",
+      "mail": "srbcdsh@163.com",
+      "homepage": "http://www.scrbc.com.cn",
+      "creat_time": 1542555547844,
+      "id": 277
+    },
+    {
+      "title": "江西铜业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "循环经济"
+      ],
+      "address": "江西省贵溪市冶金大道15号",
+      "tel": "0575-84135897",
+      "mail": "jccl@jxcc.com",
+      "homepage": "http://www.jxcc.com",
+      "creat_time": 1542555547854,
+      "id": 278
+    },
+    {
+      "title": "腾讯控股有限公司",
+      "tags": [
+        "互联网",
+        "IT",
+        "500强"
+      ],
+      "address": "深圳市南山区科技园科技中一路腾讯大厦",
+      "tel": "cosec@tencent.com",
+      "mail": "http://www.tencent.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555547863,
+      "id": 279
+    },
+    {
+      "title": "申能股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "风能概念"
+      ],
+      "address": "上海市虹井路 159 号5 楼",
+      "tel": "0769-88234888",
+      "mail": "zhouming@shenergy.com.cn",
+      "homepage": "http://www.shenergy.net.cn",
+      "creat_time": 1542555547873,
+      "id": 280
+    },
+    {
+      "title": "中国船舶工业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "非汽车交运",
+        "航母概念"
+      ],
+      "address": "上海市浦东新区浦东大道1号15A层",
+      "tel": "0431-85768888",
+      "mail": "cssc@cssc.net.cn",
+      "homepage": "http://www.csscholdings.com",
+      "creat_time": 1542555548681,
+      "id": 281
+    },
+    {
+      "title": "金融街控股股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "房地产",
+        "房地产开发"
+      ],
+      "address": "北京市西城区金融大街丙 17号北京银行大厦11－12层",
+      "tel": "010-84527253",
+      "mail": "investors@jrjkg.com",
+      "homepage": "http://www.jrjkg.com",
+      "creat_time": 1542555548690,
+      "id": 282
+    },
+    {
+      "title": "安阳钢铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "低碳概念"
+      ],
+      "address": "河南省安阳市殷都区梅元庄",
+      "tel": "0372-3120175",
+      "mail": "aygtzq@126.com",
+      "homepage": "http://www.aysteel.com.cn",
+      "creat_time": 1542555548699,
+      "id": 283
+    },
+    {
+      "title": "无锡商业大厦大东方股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "零售"
+      ],
+      "address": "江苏省无锡市中山路343号",
+      "tel": "0510-86530222",
+      "mail": "cmc@eastall.com",
+      "homepage": "http://www.eastall.com",
+      "creat_time": 1542555548707,
+      "id": 284
+    },
+    {
+      "title": "泸州老窖股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "食品饮料",
+        "酒业"
+      ],
+      "address": "四川省泸州市南光路泸州老窖营销网络指挥中心",
+      "tel": "0571-85063052",
+      "mail": "lzlj@lzlj.com.cn",
+      "homepage": "http://www.lzlj.com.cn",
+      "creat_time": 1542555548714,
+      "id": 285
+    },
+    {
+      "title": "山西太钢不锈钢股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "高铁概念股"
+      ],
+      "address": "山西省太原市尖草坪街2号",
+      "tel": "0351-3017729",
+      "mail": "tgbx@tisco.com.cn",
+      "homepage": "http://www.tisco.com.cn",
+      "creat_time": 1542555548725,
+      "id": 286
+    },
+    {
+      "title": "龙源电力集团股份有限公司",
+      "tags": [
+        "电力生产",
+        "经营",
+        "500强"
+      ],
+      "address": "北京市朝阳区安慧北里安园19号",
+      "tel": "852-28612832",
+      "mail": "http://www.clypg.com.cn",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555548735,
+      "id": 287
+    },
+    {
+      "title": "中联重科股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "机械设备",
+        "长株潭"
+      ],
+      "address": "湖南省长沙市银盆南路361号",
+      "tel": "021-38610000",
+      "mail": "hwaftersales@zoomlion.com",
+      "homepage": "http://www.zoomlion.com",
+      "creat_time": 1542555548742,
+      "id": 288
+    },
+    {
+      "title": "中信银行股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "投资"
+      ],
+      "address": "北京市东城区朝阳门北大街8号富华大厦C座",
+      "tel": "021-61151111",
+      "mail": "ir_cncb@citicbank.com",
+      "homepage": "http://bank.ecitic.com",
+      "creat_time": 1542555548749,
+      "id": 289
+    },
+    {
+      "title": "福建三钢闽光股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "海西概念"
+      ],
+      "address": "福建省三明市梅列区工业中路群工三路",
+      "tel": "0598-8205079",
+      "mail": "weicaiqing@163.com",
+      "homepage": "http://www.sgmg.com.cn",
+      "creat_time": 1542555548758,
+      "id": 290
+    },
+    {
+      "title": "中国忠旺控股有限公司",
+      "tags": [
+        "交通运输",
+        "机械",
+        "500强"
+      ],
+      "address": "辽宁省辽阳市文圣路299号",
+      "tel": "0898-31669368",
+      "mail": "admin@zhongwang.com",
+      "homepage": "http://www.zhongwang.com",
+      "creat_time": 1542555550286,
+      "id": 291
+    },
+    {
+      "title": "湖南华菱钢铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "国际板概念"
+      ],
+      "address": "湖南省长沙市天心区湘府西路222号华菱园主楼",
+      "tel": "021-63211750",
+      "mail": "hlzhuxm@163.com",
+      "homepage": "http://www.valin.cn",
+      "creat_time": 1542555550298,
+      "id": 292
+    },
+    {
+      "title": "兴业银行股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "QFII概念"
+      ],
+      "address": "福建省福州市湖东路154 号",
+      "tel": "0591-87824863",
+      "mail": "irm@cib.com.cn",
+      "homepage": "http://www.cib.com.cn",
+      "creat_time": 1542555550308,
+      "id": 293
+    },
+    {
+      "title": "融创中国控股有限公司",
+      "tags": [
+        "上市企业",
+        "物业管理",
+        "500强"
+      ],
+      "address": "天津市南开区宾水西道奥城商业广场C7-10层",
+      "tel": "022-23937799",
+      "mail": "http://www.sunac.com.cn/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555550317,
+      "id": 294
+    },
+    {
+      "title": "深圳长城开发科技股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "计算机设备",
+        "智能电网"
+      ],
+      "address": "广东省深圳市福田区彩田路7006号",
+      "tel": "852-25222282",
+      "mail": "stock@kaifa.cn",
+      "homepage": "http://www.kaifa.cn",
+      "creat_time": 1542555550325,
+      "id": 295
+    },
+    {
+      "title": "中工国际工程股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "水利概念"
+      ],
+      "address": "北京市海淀区丹棱街3号",
+      "tel": "0838-2342114",
+      "mail": "camce@camce.com.cn",
+      "homepage": "http://www.camce.com.cn",
+      "creat_time": 1542555550337,
+      "id": 296
+    },
+    {
+      "title": "广西柳工机械股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "机械设备",
+        "工程机械"
+      ],
+      "address": "广西壮族自治区柳州市柳太路1号",
+      "tel": "021-58396666",
+      "mail": "stock@liugong.com",
+      "homepage": "http://www.liugong.com",
+      "creat_time": 1542555550346,
+      "id": 297
+    },
+    {
+      "title": "TCL多媒体科技控股有限公司",
+      "tags": [
+        "数码家电",
+        "电器制造",
+        "500强"
+      ],
+      "address": "广东省惠州市鹅岭南路6号TCL工业大厦九楼",
+      "tel": "0411-83880983",
+      "mail": "tclmultimedia@hillandknowlton.com.hk",
+      "homepage": "http://multimedia.tcl.com",
+      "creat_time": 1542555550356,
+      "id": 298
+    },
+    {
+      "title": "南京银行股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "QFII概念"
+      ],
+      "address": "江苏省南京市玄武区中山路288号",
+      "tel": "0536-2240589",
+      "mail": "boardoffice@njcb.com.cn",
+      "homepage": "http://www.njcb.com.cn",
+      "creat_time": 1542555550367,
+      "id": 299
+    },
+    {
+      "title": "广东韶钢松山股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "金属加工"
+      ],
+      "address": "广东省韶关市曲江",
+      "tel": "0731-85385545",
+      "mail": "sgss@sgis.com.cn",
+      "homepage": "http://www.sgss.com.cn",
+      "creat_time": 1542555550378,
+      "id": 300
+    },
+    {
+      "title": "世茂房地产控股有限公司",
+      "tags": [
+        "房地产开发",
+        "管理",
+        "500强"
+      ],
+      "address": "香港湾仔港湾道1号会展广场半公大楼43楼",
+      "tel": "400-666-1990",
+      "mail": "ir@shimaoproperty.com",
+      "homepage": "http://www.shimaoproperty.com",
+      "creat_time": 1542555551317,
+      "id": 301
+    },
+    {
+      "title": "深圳华侨城股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "房地产",
+        "ipv6概念"
+      ],
+      "address": "广东省深圳市南山区华侨城集团办公大楼",
+      "tel": "0755-83032000",
+      "mail": "000069ir@chinaoct.com",
+      "homepage": "http://www.octholding.com",
+      "creat_time": 1542555551327,
+      "id": 302
+    },
+    {
+      "title": "中国蒙牛乳业有限公司",
+      "tags": [
+        "乳制品开发",
+        "销售",
+        "500强"
+      ],
+      "address": "内蒙古呼和浩特市和林格尔盛乐经济园区",
+      "tel": "info@mengniuir.com",
+      "mail": "http://www.mengniuir.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555551334,
+      "id": 303
+    },
+    {
+      "title": "中国国际航空股份有限公司",
+      "tags": [
+        "上市公司",
+        "航空运输",
+        "500强",
+        "世界500强"
+      ],
+      "address": "中国北京天竺空港经济开发区天柱路30号",
+      "tel": "95553",
+      "mail": "raoxinyu@airchina.com",
+      "homepage": "http://www.airchina.com.cn",
+      "creat_time": 1542555551343,
+      "id": 304
+    },
+    {
+      "title": "华夏幸福基业投资开发股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "房地产",
+        "园区开发"
+      ],
+      "address": "北京市朝阳区东三环北路霞光里18号佳程广场A座9层",
+      "tel": "0571-87075755",
+      "mail": "hxzhuzhou@163.com",
+      "homepage": "http://www.cfldcn.com",
+      "creat_time": 1542555551351,
+      "id": 305
+    },
+    {
+      "title": "中国国际海运集装箱(集团)股份有限公司",
+      "tags": [
+        "上市公司",
+        "能源装备",
+        "中国500强"
+      ],
+      "address": "广东省深圳市南山区蛇口港湾大道2号中集集团研发中心",
+      "tel": "0755-26770000",
+      "mail": "shareholder@cimc.com",
+      "homepage": "http://www.cimc.com",
+      "creat_time": 1542555551358,
+      "id": 306
+    },
+    {
+      "title": "国机汽车股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "滨海概念"
+      ],
+      "address": "北京市海淀区中关村南三街6号",
+      "tel": "4008-199-777",
+      "mail": "600335@sinomach-auto.com",
+      "homepage": "http://www.dstg.com.cn",
+      "creat_time": 1542555551367,
+      "id": 307
+    },
+    {
+      "title": "百度公司",
+      "tags": [
+        "互联网",
+        "通信",
+        "500强"
+      ],
+      "address": "北京市海淀区上地十街10号",
+      "tel": "0755-25875140",
+      "mail": "zhoujianwei@baidu.com",
+      "homepage": "http://www.baidu.com",
+      "creat_time": 1542555551376,
+      "id": 308
+    },
+    {
+      "title": "广东电力发展股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "创投概念"
+      ],
+      "address": "广东省广州市天河东路2号粤电广场南塔23-26楼",
+      "tel": "0775-3228123",
+      "mail": "zhangsm@ged.com.cn",
+      "homepage": "http://www.ged.com.cn",
+      "creat_time": 1542555551383,
+      "id": 309
+    },
+    {
+      "title": "合肥美菱股份有限公司",
+      "tags": [
+        "上市公司",
+        "家用电器",
+        "皖江区域",
+        "太阳能"
+      ],
+      "address": "安徽省合肥市经济技术开发区莲花路2163号",
+      "tel": "010-64688233",
+      "mail": "meilingbingxiang@meiling.com",
+      "homepage": "http://www.meiling.com",
+      "creat_time": 1542555551391,
+      "id": 310
+    },
+    {
+      "title": "常州天合光能有限公司",
+      "tags": [
+        "新能源",
+        "500强"
+      ],
+      "address": "江苏省常州市新北区天合光伏产业园天合路2号",
+      "tel": "0852-28237888",
+      "mail": "sales@trinasolar.com",
+      "homepage": "http://www.trinasolar.com",
+      "creat_time": 1542555555123,
+      "id": 311
+    },
+    {
+      "title": "上海医药集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "医药生物",
+        "QFII概念"
+      ],
+      "address": "上海市太仓路200号上海医药大厦",
+      "tel": "010-88008800",
+      "mail": "pharm@pharm-sh.com.cn",
+      "homepage": "http://www.pharm-sh.com.cn",
+      "creat_time": 1542555555129,
+      "id": 312
+    },
+    {
+      "title": "中化国际(控股)股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "舟山新区"
+      ],
+      "address": "上海市浦东新区世纪大道88号金茂大厦3区18层",
+      "tel": "021-50475048",
+      "mail": "intlwebmaster@sinochem.com",
+      "homepage": "http://www.sinochemintl.com",
+      "creat_time": 1542555555136,
+      "id": 313
+    },
+    {
+      "title": "上海建工集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "保障房概念"
+      ],
+      "address": "上海市东大名路666号",
+      "tel": "021-33960000",
+      "mail": "sc@china-scg.com",
+      "homepage": "http://www.shconstruction.cn",
+      "creat_time": 1542555555146,
+      "id": 314
+    },
+    {
+      "title": "北京银行股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "投资"
+      ],
+      "address": "北京市西城区金融大街丙17号北京银行大厦",
+      "tel": "010-66426500",
+      "mail": "snow@bankofbeijing.com.cn",
+      "homepage": "http://www.bankofbeijing.com.cn",
+      "creat_time": 1542555555152,
+      "id": 315
+    },
+    {
+      "title": "珠海格力电器股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "家用电器",
+        "QFII概念"
+      ],
+      "address": "广东省珠海市前山金鸡西路",
+      "tel": "010-68494206/68494267",
+      "mail": "greenews@cn.gree.com",
+      "homepage": "http://www.gree.com.cn",
+      "creat_time": 1542555555162,
+      "id": 316
+    },
+    {
+      "title": "双钱集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "轮胎"
+      ],
+      "address": "上海市四川中路63号",
+      "tel": "021-33024666-6238",
+      "mail": "company@doublecoinholdings.com",
+      "homepage": "http://www.doublecoinholdings.com",
+      "creat_time": 1542555555170,
+      "id": 317
+    },
+    {
+      "title": "沈阳机床股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "机械设备",
+        "高铁概念股"
+      ],
+      "address": "辽宁省沈阳市经济技术开发区开发大路17甲1号",
+      "tel": "0451-53685938",
+      "mail": "smtcl@smtcl.com",
+      "homepage": "http://www.smtcl.com",
+      "creat_time": 1542555555178,
+      "id": 318
+    },
+    {
+      "title": "碧桂园控股有限公司",
+      "tags": [
+        "房地产开发",
+        "管理",
+        "500强"
+      ],
+      "address": "广东省佛山市顺德区北滘镇顺德碧桂园",
+      "tel": "010-59765555",
+      "mail": "zhaopin@countrygarden.com.cn",
+      "homepage": "http://www.countrygarden.com.cn",
+      "creat_time": 1542555555188,
+      "id": 319
+    },
+    {
+      "title": "山东恒邦冶炼股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "黄金概念"
+      ],
+      "address": "山东省烟台市牟平区水道镇",
+      "tel": "010-57376888",
+      "mail": "xiaxiaobo105@126.com",
+      "homepage": "http://www.hbyl.cn",
+      "creat_time": 1542555555197,
+      "id": 320
+    },
+    {
+      "title": "黑龙江北大荒农业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "农林牧渔",
+        "生物燃料概念"
+      ],
+      "address": "黑龙江省哈尔滨市南岗区汉水路263号",
+      "tel": "0535-6698378",
+      "mail": "600598@hacl.cn",
+      "homepage": "http://www.hacl.cn",
+      "creat_time": 1542555557477,
+      "id": 321
+    },
+    {
+      "title": "中国太平保险控股有限公司",
+      "tags": [
+        "保险",
+        "金融服务",
+        "500强"
+      ],
+      "address": "香港铜锣湾新宁道8号中国太平大厦二期12楼",
+      "tel": "852-25937530",
+      "mail": "mail@ctih.cntaiping.com",
+      "homepage": "http://www.ctih.cntaiping.com",
+      "creat_time": 1542555557486,
+      "id": 322
+    },
+    {
+      "title": "兖州煤业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "低碳概念"
+      ],
+      "address": "山东省邹城市凫山南路298号",
+      "tel": "0937-6711114",
+      "mail": "hxl2003@sohu.com",
+      "homepage": "http://www.yanzhoucoal.com.cn",
+      "creat_time": 1542555557494,
+      "id": 323
+    },
+    {
+      "title": "中海发展股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "港口水运",
+        "船舶"
+      ],
+      "address": "上海市东大名路670号7 楼",
+      "tel": "021-5896-6996",
+      "mail": "csd@cnshipping.com",
+      "homepage": "http://www.cnshippingdev.com",
+      "creat_time": 1542555557502,
+      "id": 324
+    },
+    {
+      "title": "马鞍山钢铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "高铁概念股"
+      ],
+      "address": "安徽省马鞍山市九华西路8号",
+      "tel": "0555-2875251",
+      "mail": "mggfdms@magang.com.cn",
+      "homepage": "http://www.magang.com.cn",
+      "creat_time": 1542555557509,
+      "id": 325
+    },
+    {
+      "title": "大同煤业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "煤炭"
+      ],
+      "address": "山西省大同市矿区新平旺",
+      "tel": "0755-26818600",
+      "mail": "dtlijuping@163.com",
+      "homepage": "http://www.dtmy.com.cn",
+      "creat_time": 1542555557519,
+      "id": 326
+    },
+    {
+      "title": "上海国际港务(集团)股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "港口水运",
+        "港口运营"
+      ],
+      "address": "上海市虹口区东大名路 358 号（国际港务大厦）",
+      "tel": "0731-84588488",
+      "mail": "600018@portshanghai.com.cn",
+      "homepage": "http://www.portshanghai.com.cn",
+      "creat_time": 1542555557527,
+      "id": 327
+    },
+    {
+      "title": "紫金矿业集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "黄金概念"
+      ],
+      "address": "福建省上杭县紫金大道1 号;福建省厦门市湖里区泗水道599号海富中心19-22层",
+      "tel": "0592-2933662",
+      "mail": "zjky@zjky.cn",
+      "homepage": "http://www.zjky.cn",
+      "creat_time": 1542555557535,
+      "id": 328
+    },
+    {
+      "title": "芜湖港储运股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "港口水运",
+        "涉矿概念"
+      ],
+      "address": "安徽省芜湖市长江中路港一路16号",
+      "tel": "010-59569601",
+      "mail": "whzqdb2010@163.com",
+      "homepage": "http://www.wuhuport.com",
+      "creat_time": 1542555557544,
+      "id": 329
+    },
+    {
+      "title": "特变电工股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力设备",
+        "核能概念"
+      ],
+      "address": "新疆维吾尔自治区昌吉市延安南路52号",
+      "tel": "0598-8205188",
+      "mail": "tbea@tbea.com.cn",
+      "homepage": "http://www.tbea.com.cn",
+      "creat_time": 1542555557554,
+      "id": 330
+    },
+    {
+      "title": "上海豫园旅游商城股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "黄金概念"
+      ],
+      "address": "上海市方浜中路269号",
+      "tel": "0591-83762200",
+      "mail": "obd@yuyuantm.com.cn",
+      "homepage": "http://www.yuyuantm.com.cn",
+      "creat_time": 1542555558246,
+      "id": 331
+    },
+    {
+      "title": "中国中材国际工程股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "低碳概念"
+      ],
+      "address": "北京市朝阳区望京北路16号中材国际大厦",
+      "tel": "0553-5840501",
+      "mail": "sinoma@sinoma.com.cn",
+      "homepage": "http://www.sinoma.com.cn",
+      "creat_time": 1542555558251,
+      "id": 332
+    },
+    {
+      "title": "大商股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "高送配潜力概念"
+      ],
+      "address": "辽宁省大连市中山区青三街1号",
+      "tel": "0411-83643215",
+      "mail": "dashanggufen@126.com",
+      "homepage": "http://www.dsjt.com",
+      "creat_time": 1542555558258,
+      "id": 333
+    },
+    {
+      "title": "辽宁华锦通达化工股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "航天军工"
+      ],
+      "address": "辽宁省盘锦市双台子区红旗大街",
+      "tel": "0717-6713010",
+      "mail": "wwllxs@163.com",
+      "homepage": "http://www.huajinchem.com/webs/index.aspx",
+      "creat_time": 1542555558265,
+      "id": 334
+    },
+    {
+      "title": "江苏亨通光电股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "通信设备",
+        "光电"
+      ],
+      "address": "江苏省吴江市经济开发区亨通路100号",
+      "tel": "020-85506280",
+      "mail": "htone@hengtonggroup.com.cn",
+      "homepage": "http://www.htgd.com.cn",
+      "creat_time": 1542555558272,
+      "id": 335
+    },
+    {
+      "title": "中国水利水电建设股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "水利水电建设"
+      ],
+      "address": "北京市海淀区车公庄西路22号",
+      "tel": "010-58381999",
+      "mail": "infocenter@sinohydro.com",
+      "homepage": "http://www.sinohydro.com/gufen",
+      "creat_time": 1542555558279,
+      "id": 336
+    },
+    {
+      "title": "天地科技股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "机械设备",
+        "煤炭开发"
+      ],
+      "address": "北京市朝阳区和平街青年沟路 5 号",
+      "tel": "0411-86427779",
+      "mail": "minyong@tdtec.com",
+      "homepage": "http://www.tdtec.com",
+      "creat_time": 1542555558285,
+      "id": 337
+    },
+    {
+      "title": "中国国旅股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "餐饮旅游",
+        "旅游"
+      ],
+      "address": "北京市东城区东直门外小街甲2号A座8层",
+      "tel": "0755-21519999",
+      "mail": "master@citsgroup.com.cn",
+      "homepage": "http://www.citsgroup.net",
+      "creat_time": 1542555558291,
+      "id": 338
+    },
+    {
+      "title": "九州通医药集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "医药生物",
+        "药品制造"
+      ],
+      "address": "湖北省武汉市汉阳区龙阳大道特8号",
+      "tel": "010-66411587",
+      "mail": "securities@jzteyao.com",
+      "homepage": "http://www.jztey.com",
+      "creat_time": 1542555558298,
+      "id": 339
+    },
+    {
+      "title": "哈药集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "医药生物",
+        "抗癌概念"
+      ],
+      "address": "黑龙江省哈尔滨市群力新区群力大道1号",
+      "tel": "0755-83680288",
+      "mail": "bgs@hayiyao.com",
+      "homepage": "http://www.hayao.com",
+      "creat_time": 1542555558306,
+      "id": 340
+    },
+    {
+      "title": "凌源钢铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "创投概念"
+      ],
+      "address": "辽宁省凌源市钢铁路3号",
+      "tel": "0592-5608079",
+      "mail": "wen600231403@sohu.com",
+      "homepage": "http://www.lggf.com.cn",
+      "creat_time": 1542555559147,
+      "id": 341
+    },
+    {
+      "title": "北京金隅股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "水泥",
+        "建筑材料生产"
+      ],
+      "address": "北京市东城区北三环东路36号环球贸易中心D座",
+      "tel": "0516-87739106",
+      "mail": "wuxiangyong@bbmg.com.cn",
+      "homepage": "http://www.bbmg.com.cn",
+      "creat_time": 1542555559156,
+      "id": 342
+    },
+    {
+      "title": "中青旅控股股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "餐饮旅游",
+        "QFII概念"
+      ],
+      "address": "北京市东城区东直门南大街5号中青旅大厦",
+      "tel": "0551-2667301",
+      "mail": "zhqb@aoyou.com",
+      "homepage": "http://www.aoyou.com",
+      "creat_time": 1542555559164,
+      "id": 343
+    },
+    {
+      "title": "南京钢铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "低碳概念"
+      ],
+      "address": "江苏省南京市六合区卸甲甸",
+      "tel": "025-57072083",
+      "mail": "ng315@njsteel.com.cn",
+      "homepage": "http://www.600282.net",
+      "creat_time": 1542555559173,
+      "id": 344
+    },
+    {
+      "title": "上海机电股份有限公司",
+      "tags": [
+        "上市公司",
+        "机械设备",
+        "智能电网",
+        "证券交易"
+      ],
+      "address": "上海市浦东新区民生路1286号汇商大厦9楼",
+      "tel": "0375-3921222",
+      "mail": "xhh@chinasec.cn",
+      "homepage": "http://www.chinasec.cn",
+      "creat_time": 1542555559181,
+      "id": 345
+    },
+    {
+      "title": "阿特斯太阳能有限公司",
+      "tags": [
+        "绿色能源",
+        "500强"
+      ],
+      "address": "江苏苏州高新区鹿山路199号",
+      "tel": "010-89495588",
+      "mail": "inquire.ca@canadiansolar.com",
+      "homepage": "http://www.canadiansolar.com",
+      "creat_time": 1542555559188,
+      "id": 346
+    },
+    {
+      "title": "贵州盘江精煤股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "循环经济"
+      ],
+      "address": "贵州省六盘水市红果经济开发区干沟桥",
+      "tel": "851-4764248",
+      "mail": "pjldp@163.com",
+      "homepage": "http://58.42.206.23",
+      "creat_time": 1542555559197,
+      "id": 347
+    },
+    {
+      "title": "南京医药股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "医药生物",
+        "医改概念"
+      ],
+      "address": "江苏省南京市中山东路486号",
+      "tel": "025-84552606",
+      "mail": "jiang_xiaojun@njyy.com",
+      "homepage": "http://www.njyy.com",
+      "creat_time": 1542555559204,
+      "id": 348
+    },
+    {
+      "title": "冠捷科技有限公司",
+      "tags": [
+        "数码电子产品生产",
+        "500强"
+      ],
+      "address": "香港九龙观塘伟业街108号丝宝国际大厦12楼1208-16室",
+      "tel": "800@aoc.com",
+      "mail": "http://www.tpv-tech.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555559213,
+      "id": 349
+    },
+    {
+      "title": "庞大汽贸集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "机械制造"
+      ],
+      "address": "北京市经济技术开发区荣华南路16号中冀斯巴鲁大厦C座",
+      "tel": "0755-26639997",
+      "mail": "dshmsc@pdqmjt.com",
+      "homepage": "http://www.pdqmjt.com",
+      "creat_time": 1542555559220,
+      "id": 350
+    },
+    {
+      "title": "国药集团一致药业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "医药生物",
+        "新医药概念"
+      ],
+      "address": "广东省深圳市福田区八卦四路15号一致药业大楼",
+      "tel": "010-66579822",
+      "mail": "yztx@szaccord.com.cn",
+      "homepage": "http://www.szaccord.com.cn",
+      "creat_time": 1542555560278,
+      "id": 351
+    },
+    {
+      "title": "鲁西化工集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化肥农药",
+        "化工"
+      ],
+      "address": "山东省东阿县化工工业园",
+      "tel": "0316-5909685",
+      "mail": "lclxhg@public.lcptt.sd.cn",
+      "homepage": "http://www.luxichemical.com",
+      "creat_time": 1542555560286,
+      "id": 352
+    },
+    {
+      "title": "中国海外发展有限公司",
+      "tags": [
+        "房地产开发",
+        "管理",
+        "500强"
+      ],
+      "address": "香港皇后大道东一号太古广场3座10楼",
+      "tel": "852-31506788",
+      "mail": "haisong@cohl.com",
+      "homepage": "http://www.coli.com.hk",
+      "creat_time": 1542555560296,
+      "id": 353
+    },
+    {
+      "title": "内蒙古包钢稀土(集团)高科技股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "航母概念"
+      ],
+      "address": "内蒙古自治区包头市稀土高新技术产业开发区黄河路83号",
+      "tel": "010-66565588",
+      "mail": "security@reht.com",
+      "homepage": "http://www.reht.com",
+      "creat_time": 1542555560303,
+      "id": 354
+    },
+    {
+      "title": "上海友谊集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "迪斯尼概念"
+      ],
+      "address": "上海市六合路58号新一百大厦 22 楼",
+      "tel": "010-83567888",
+      "mail": "yy600827@163.com",
+      "homepage": "http://www.shfriendship.com.cn",
+      "creat_time": 1542555560317,
+      "id": 355
+    },
+    {
+      "title": "老凤祥股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "轻工制造",
+        "奢侈品"
+      ],
+      "address": "上海市漕溪路258弄26号六楼",
+      "tel": "021-64855944",
+      "mail": "cfp612@126.com",
+      "homepage": "http://www.laofengxiang.com",
+      "creat_time": 1542555560325,
+      "id": 356
+    },
+    {
+      "title": "中国葛洲坝集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "水利概念"
+      ],
+      "address": "湖北省武汉市解放大道558号葛洲坝大酒店B座7层",
+      "tel": "010-58501528",
+      "mail": "lzh319@163.com",
+      "homepage": "http://www.cggc.cn",
+      "creat_time": 1542555560333,
+      "id": 357
+    },
+    {
+      "title": "厦门金龙汽车集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "海西概念"
+      ],
+      "address": "福建省厦门市厦禾路668号22-23层",
+      "tel": "0592-2969815",
+      "mail": "jinlong@mail.king-long.com.cn",
+      "homepage": "http://www.xmklm.com.cn",
+      "creat_time": 1542555560340,
+      "id": 358
+    },
+    {
+      "title": "上海外高桥保税区开发股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "房地产",
+        "迪斯尼概念"
+      ],
+      "address": "上海市浦东新区杨高北路2001号",
+      "tel": "0755-33313000",
+      "mail": "wgq@shwgq.com",
+      "homepage": "http://www.shwgq.com",
+      "creat_time": 1542555560348,
+      "id": 359
+    },
+    {
+      "title": "中国医药保健品股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "甲型流感"
+      ],
+      "address": "北京市东城区光明中街18号",
+      "tel": "010-67164267",
+      "mail": "meheco@meheco.com.cn",
+      "homepage": "http://www.meheco.cn",
+      "creat_time": 1542555560355,
+      "id": 360
+    },
+    {
+      "title": "中粮生物化学(安徽)股份有限公司",
+      "tags": [
+        "农产品深加工",
+        "柠檬酸生产",
+        "氨基酸生产",
+        "燃料酒精"
+      ],
+      "address": "安徽省蚌埠市中粮大道 1 号",
+      "tel": "0858-3700019",
+      "mail": "zlahshstock@163.com",
+      "homepage": "http://www.zlahsh.com",
+      "creat_time": 1542555561858,
+      "id": 361
+    },
+    {
+      "title": "重庆百货大楼股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "QFII概念"
+      ],
+      "address": "重庆市渝中区青年路18号",
+      "tel": "400-887-8668",
+      "mail": "cbdsh@e-cbest.com",
+      "homepage": "http://www.e-cbest.com",
+      "creat_time": 1542555561866,
+      "id": 362
+    },
+    {
+      "title": "北京物美商业集团股份有限公司",
+      "tags": [
+        "超市",
+        "商场",
+        "500强"
+      ],
+      "address": "北京市石景山区石景山路3号玉泉大厦10层",
+      "tel": "0791-85266000",
+      "mail": "info@wu-mart.com",
+      "homepage": "http://www.wumart.com",
+      "creat_time": 1542555561874,
+      "id": 363
+    },
+    {
+      "title": "大亚科技股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "轻工制造",
+        "地板"
+      ],
+      "address": "江苏省丹阳经济技术开发区金陵西路95号",
+      "tel": "021-60611799",
+      "mail": "daretech@cndare.com",
+      "homepage": "http://www.daretechnology.com",
+      "creat_time": 1542555561880,
+      "id": 364
+    },
+    {
+      "title": "郑州宇通客车股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "汽车制造"
+      ],
+      "address": "河南省郑州市管城区宇通路宇通工业园",
+      "tel": "020-4913603",
+      "mail": "ytkf@yutong.com",
+      "homepage": "http://www.yutong.com",
+      "creat_time": 1542555561887,
+      "id": 365
+    },
+    {
+      "title": "中国重汽(香港)有限公司",
+      "tags": [
+        "汽车",
+        "机械制造",
+        "500强"
+      ],
+      "address": "山东省济南市英雄山路165号",
+      "tel": "021-23156666",
+      "mail": "securities@sinotrukhk.com",
+      "homepage": "http://www.sinotruk.com",
+      "creat_time": 1542555561892,
+      "id": 366
+    },
+    {
+      "title": "辽宁成大股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "证券",
+        "信托"
+      ],
+      "address": "辽宁省大连市中山区人民路71号",
+      "tel": "0411-82512618",
+      "mail": "jiangxu@chengda.com.cn",
+      "homepage": "http://www.chengda.com.cn",
+      "creat_time": 1542555561899,
+      "id": 367
+    },
+    {
+      "title": "东方电气股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力设备",
+        "核能概念"
+      ],
+      "address": "四川省成都市金牛区蜀汉路333号",
+      "tel": "0731-84031888",
+      "mail": "dongfang@dongfang.com",
+      "homepage": "http://www.dec-ltd.cn",
+      "creat_time": 1542555561905,
+      "id": 368
+    },
+    {
+      "title": "云南云天化股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化肥农药",
+        "新材料"
+      ],
+      "address": "云南省水富县",
+      "tel": "010-84534078",
+      "mail": "yth@yyth.com.cn",
+      "homepage": "http://www.yyth.com.cn",
+      "creat_time": 1542555561912,
+      "id": 369
+    },
+    {
+      "title": "步步高商业连锁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "超市"
+      ],
+      "address": "湖南省湘潭市韶山西路309号步步高大厦",
+      "tel": "0551-5771000",
+      "mail": "bbgzbfsb@163.com",
+      "homepage": "http://www.bbg.com.cn",
+      "creat_time": 1542555561919,
+      "id": 370
+    },
+    {
+      "title": "上海紫江企业集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "轻工制造",
+        "创投概念"
+      ],
+      "address": "上海市虹桥路2272号虹桥商务大厦7楼C座",
+      "tel": "021-62377118",
+      "mail": "gmo@zijiangqy.com",
+      "homepage": "http://www.zijiangqy.com",
+      "creat_time": 1542555563060,
+      "id": 371
+    },
+    {
+      "title": "山东钢铁股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "保障房概念"
+      ],
+      "address": "山东省济南市历山路134号",
+      "tel": "0531-67710000",
+      "mail": "sdgt600022@126.com",
+      "homepage": "http://www.jigang.com.cn",
+      "creat_time": 1542555563068,
+      "id": 372
+    },
+    {
+      "title": "中信资源控股有限公司",
+      "tags": [
+        "矿产",
+        "能源",
+        "中国500强"
+      ],
+      "address": "香港金钟道88号太古广场一座30楼3001-3006室",
+      "tel": "http://www.citicresources.com",
+      "mail": ".contact li:nth-child(3)",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555563077,
+      "id": 373
+    },
+    {
+      "title": "中国无线科技有限公司",
+      "tags": [
+        "上市公司",
+        "无限增值服务",
+        "500强"
+      ],
+      "address": "深圳市南山区高新技术产业园（北区）梦溪道2号酷派信息港",
+      "tel": "0755-3302 3607",
+      "mail": "http://www.chinawireless.cn/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555563084,
+      "id": 374
+    },
+    {
+      "title": "北京江河幕墙股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "500强"
+      ],
+      "address": "北京市顺义区牛汇北五街5 号",
+      "tel": "010-60411166",
+      "mail": "wangpeng@janghogroup.com",
+      "homepage": "http://www.janghogroup.com",
+      "creat_time": 1542555563094,
+      "id": 375
+    },
+    {
+      "title": "方兴地产(中国)有限公司",
+      "tags": [
+        "房地产",
+        "酒店业务",
+        "500强"
+      ],
+      "address": "北京市复兴门外大街A2号中化大厦F22层",
+      "tel": "8610-59369900",
+      "mail": "lijing1@sinochem.com",
+      "homepage": "http://www.franshion.com/",
+      "creat_time": 1542555563102,
+      "id": 376
+    },
+    {
+      "title": "中集安瑞科控股有限公司",
+      "tags": [
+        "能源",
+        "化工",
+        "运输",
+        "500强"
+      ],
+      "address": "广东省深圳市蛇口工业区港湾大道2号中集集团研发中心",
+      "tel": "email@cimc.com",
+      "mail": "http://www.enricgroup.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555563112,
+      "id": 377
+    },
+    {
+      "title": "远大中国控股有限公司",
+      "tags": [
+        "墙幕设计",
+        "材料制造",
+        "性能检测",
+        "安装"
+      ],
+      "address": "辽宁省沈阳市经济技术开发区十三号街20号",
+      "tel": "800-8908977",
+      "mail": "http://www.yuandacn.com/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555563120,
+      "id": 378
+    },
+    {
+      "title": "大连华锐重工集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "机械设备",
+        "航母概念"
+      ],
+      "address": "辽宁省大连市西岗区八一路169号",
+      "tel": "010-64318888-6417",
+      "mail": "sales@dhidcw.com",
+      "homepage": "http://www.dhidcw.com",
+      "creat_time": 1542555563130,
+      "id": 379
+    },
+    {
+      "title": "中粮地产(集团)股份有限公司",
+      "tags": [
+        "住宅地产",
+        "商业地产",
+        "工业地产",
+        "500强"
+      ],
+      "address": "广东省深圳市福田区福华一路1号大中华国际交易广场35层",
+      "tel": "0755-23999000",
+      "mail": "http://www.cofco-property.cn/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555563138,
+      "id": 380
+    },
+    {
+      "title": "中铝国际工程股份有限公司",
+      "tags": [
+        "矿山勘探",
+        "矿山设计",
+        "有色金属加工",
+        "铝工业装备"
+      ],
+      "address": "北京市海淀区杏石口路99号C座",
+      "tel": "010-82406872",
+      "mail": "http://www.chalieco.com.cn",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555564850,
+      "id": 381
+    },
+    {
+      "title": "湖南有色金属股份有限公司",
+      "tags": [
+        "金属加工",
+        "500强"
+      ],
+      "address": "湖南省长沙市劳动西路342号湖南有色大厦A栋11楼",
+      "tel": "0755-83765566",
+      "mail": "hnc@hnc2626.com",
+      "homepage": "http://www.hnc2626.com",
+      "creat_time": 1542555564860,
+      "id": 382
+    },
+    {
+      "title": "华润置地有限公司",
+      "tags": [
+        "房地产开发",
+        "管理",
+        "500强"
+      ],
+      "address": "香港湾仔港湾道26号华润大厦46楼",
+      "tel": "0592-6036369",
+      "mail": "office@crland.com.cn",
+      "homepage": "http://www.crland.com.hk",
+      "creat_time": 1542555564868,
+      "id": 383
+    },
+    {
+      "title": "重庆长安汽车股份有限公司",
+      "tags": [
+        "上市公司",
+        "汽车",
+        "两江新区",
+        "证券交易"
+      ],
+      "address": "重庆市江北区建新东路260号",
+      "tel": "0351-6218271",
+      "mail": "cazqc@changan.com.cn",
+      "homepage": "http://www.changan.com.cn",
+      "creat_time": 1542555564875,
+      "id": 384
+    },
+    {
+      "title": "歌尔声学股份有限公司",
+      "tags": [
+        "型麦克风",
+        "微型扬声器",
+        "受话器",
+        "蓝牙系列产品"
+      ],
+      "address": "山东省潍坊高新技术产业开发区东方路268 号",
+      "tel": "0536-8525155",
+      "mail": "ir@goertek.com",
+      "homepage": "http://www.goertek.com",
+      "creat_time": 1542555564883,
+      "id": 385
+    },
+    {
+      "title": "云南白药集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "医药生物",
+        "新医药概念"
+      ],
+      "address": "云南省昆明市呈贡区云南白药街3686号",
+      "tel": "0472-2207510",
+      "mail": "ynby@yunnanbaiyao.com.cn",
+      "homepage": "http://www.yunnanbaiyao.com.cn",
+      "creat_time": 1542555564889,
+      "id": 386
+    },
+    {
+      "title": "华润燃气控股有限公司",
+      "tags": [
+        "燃气",
+        "能源",
+        "500强"
+      ],
+      "address": "香港湾仔港湾道26号华润大厦1901-05室",
+      "tel": "0574-88265571",
+      "mail": "investor-relations@crgas.com.hk",
+      "homepage": "http://www.crgas.com.hk",
+      "creat_time": 1542555564897,
+      "id": 387
+    },
+    {
+      "title": "合景泰富地产控股有限公司",
+      "tags": [
+        "房地产开发",
+        "运营",
+        "500强"
+      ],
+      "address": "广州市珠江新城华夏路8号合景国际金融广场38楼",
+      "tel": "0419-3688888",
+      "mail": "http://www.kwgproperty.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555564904,
+      "id": 388
+    },
+    {
+      "title": "中国联塑集团控股有限公司",
+      "tags": [
+        "管道产品",
+        "卫浴产品",
+        "整体厨房",
+        "型材门窗"
+      ],
+      "address": "中国广东省佛山市顺德区龙江镇联塑工业村",
+      "tel": "0757-23888333",
+      "mail": "http://www.lesso.com/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555564911,
+      "id": 389
+    },
+    {
+      "title": "浙江盾安人工环境股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "家用电器",
+        "低碳概念"
+      ],
+      "address": "浙江省杭州市滨江区西兴工业园区聚园路8号",
+      "tel": "0571-87113776",
+      "mail": "dazq@dunan.net",
+      "homepage": "http://www.dunan.net",
+      "creat_time": 1542555564918,
+      "id": 390
+    },
+    {
+      "title": "重庆农村商业银行股份有限公司",
+      "tags": [
+        "金融服务",
+        "银行",
+        "理财",
+        "500强"
+      ],
+      "address": "重庆市江北区洋河东路10号",
+      "tel": "cqrcb@cqrcb.com",
+      "mail": "http://www.cqrcb.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555567412,
+      "id": 391
+    },
+    {
+      "title": "康美药业股份有限公司",
+      "tags": [
+        "上市公司",
+        "医药生物",
+        "超级细菌",
+        "康美"
+      ],
+      "address": "广东省普宁市长春路中段",
+      "tel": "0663-2917777-8006",
+      "mail": "kangmei@126.com",
+      "homepage": "http://www.kangmei.com.cn",
+      "creat_time": 1542555567421,
+      "id": 392
+    },
+    {
+      "title": "中国重汽集团济南卡车股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "航天军工"
+      ],
+      "address": "山东省济南市市中区党家庄镇南首",
+      "tel": "0531-85587586",
+      "mail": "cnhtc000951@163.com",
+      "homepage": "http://www.jntruck.com",
+      "creat_time": 1542555567429,
+      "id": 393
+    },
+    {
+      "title": "信义玻璃控股有限公司",
+      "tags": [
+        "玻璃产业",
+        "环保特种玻璃",
+        "特殊颜色玻璃",
+        "500强"
+      ],
+      "address": "香港新界大埔白石角香港科学园2期科技大道东16号海滨大楼2座3楼",
+      "tel": "852-39192888",
+      "mail": "info@xinyiglass.com.hk",
+      "homepage": "http://www.xinyiglass.com/",
+      "creat_time": 1542555567438,
+      "id": 394
+    },
+    {
+      "title": "申洲国际集团控股有限公司",
+      "tags": [
+        "针织服装",
+        "出口",
+        "织布",
+        "染整"
+      ],
+      "address": "浙江省宁波市宁波经济技术开发区甬江路18号",
+      "tel": "0574-86980888",
+      "mail": "http://www.shenzhouintl.com/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555567445,
+      "id": 395
+    },
+    {
+      "title": "新城发展控股有限公司",
+      "tags": [
+        "房地产开发",
+        "上市公司",
+        "500强"
+      ],
+      "address": "上海市普陀區中山北路3000號長城大廈21-23樓",
+      "tel": "021-32522988",
+      "mail": "http://www.futureholdings.com.cn/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555567452,
+      "id": 396
+    },
+    {
+      "title": "中信泰富有限公司",
+      "tags": [
+        "矿石开采",
+        "钢铁制造",
+        "500强"
+      ],
+      "address": "香港中环添美道1号中信大厦32楼",
+      "tel": "contact@citicpacific.com",
+      "mail": "http://www.citicpacific.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555567458,
+      "id": 397
+    },
+    {
+      "title": "新奥能源控股有限公司",
+      "tags": [
+        "上市公司",
+        "管道燃气",
+        "500强"
+      ],
+      "address": "河北省廊坊市经济技术开发区新源东道",
+      "tel": "400-86-95158",
+      "mail": "http://www.xinaogas.com/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555567466,
+      "id": 398
+    },
+    {
+      "title": "合生创展集团有限公司",
+      "tags": [
+        "住宅地产",
+        "商业地产",
+        "酒店地产",
+        "旅游度假产业"
+      ],
+      "address": "北京市朝阳区西大望路珠江帝景豪廷酒店3楼",
+      "tel": "010-65460311",
+      "mail": "http://www.hopson.com.cn/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555567481,
+      "id": 399
+    },
+    {
+      "title": "中石化冠德控股有限公司",
+      "tags": [
+        "石油",
+        "化工",
+        "500强"
+      ],
+      "address": "香港湾仔港湾道一号会展办公大楼20楼",
+      "tel": "400-6596-666",
+      "mail": "http://www.sinopec.com.hk",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555567488,
+      "id": 400
+    },
+    {
+      "title": "中国海外宏洋集团有限公司",
+      "tags": [
+        "房地产开发",
+        "销售",
+        "500强"
+      ],
+      "address": "香港九龍柯士甸道西1號環球貿易廣場67樓6703室",
+      "tel": "852-29880600",
+      "mail": "http://www.cogogl.com.hk/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555569333,
+      "id": 401
+    },
+    {
+      "title": "平安银行股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "银行",
+        "国际板概念"
+      ],
+      "address": "广东省深圳市深南东路5047号",
+      "tel": "0757-26635918",
+      "mail": "callcenter@pingan.com.cn",
+      "homepage": "http://www.sdb.com.cn",
+      "creat_time": 1542555569342,
+      "id": 402
+    },
+    {
+      "title": "海南天然橡胶产业集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "农林牧渔",
+        "橡胶"
+      ],
+      "address": "海南省海口市滨海大道103号财富广场四层",
+      "tel": "852-82026888",
+      "mail": "sqfei@hirub.cn",
+      "homepage": "http://www.hirub.cn",
+      "creat_time": 1542555569350,
+      "id": 403
+    },
+    {
+      "title": "中国天瑞集团水泥有限公司",
+      "tags": [
+        "水泥生产",
+        "熟料",
+        "水泥磨粉",
+        "代理加盟"
+      ],
+      "address": "河南省汝州市广成东路63号",
+      "tel": "0375-6030133",
+      "mail": "yucl@tianruigroup.cn",
+      "homepage": "http://www.trcement.com/",
+      "creat_time": 1542555569360,
+      "id": 404
+    },
+    {
+      "title": "仁恒置地集团有限公司",
+      "tags": [
+        "房地产",
+        "建材",
+        "500强"
+      ],
+      "address": "上海市浦东新区丁香路1399弄30号6楼",
+      "tel": "0374-6216316",
+      "mail": "http://www.yanlordland.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555569368,
+      "id": 405
+    },
+    {
+      "title": "海信科龙电器股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "家用电器",
+        "大型家电"
+      ],
+      "address": "广东省佛山市顺德区容桂街道容港路8号",
+      "tel": "0315-3026346",
+      "mail": "kelonsec@hisense.com",
+      "homepage": "http://www.kelon.com",
+      "creat_time": 1542555569379,
+      "id": 406
+    },
+    {
+      "title": "天能动力国际有限公司",
+      "tags": [
+        "动力电池",
+        "新能源储能电池",
+        "500强"
+      ],
+      "address": "浙江省长兴雉城工业园",
+      "tel": "0572-6709836",
+      "mail": "yoyo@tiannengpower.com",
+      "homepage": "http://www.tianneng.com.hk/",
+      "creat_time": 1542555569386,
+      "id": 407
+    },
+    {
+      "title": "TCL通讯科技控股有限公司",
+      "tags": [
+        "移动通信硬件",
+        "500强"
+      ],
+      "address": "广东省惠州市鹅岭南路6号TCL工业大厦九楼",
+      "tel": "0874-3068448",
+      "mail": "sales.tclcomm@tcl.com",
+      "homepage": "http://tclcom.tcl.com",
+      "creat_time": 1542555569393,
+      "id": 408
+    },
+    {
+      "title": "中国秦发集团有限公司",
+      "tags": [
+        "煤炭采购",
+        "选煤",
+        "配煤",
+        "储存"
+      ],
+      "address": "广东省广州市",
+      "tel": "020 -89898239",
+      "mail": "trading@qinfagroup.com",
+      "homepage": "http://www.qinfagroup.com/",
+      "creat_time": 1542555569409,
+      "id": 409
+    },
+    {
+      "title": "中国正通汽车服务控股有限公司",
+      "tags": [
+        "汽车销售",
+        "品牌汽车",
+        "500强"
+      ],
+      "address": "北京市丰台区西三环南路59号",
+      "tel": "010-63829393",
+      "mail": "http://www.zhengtongauto.cn/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555569420,
+      "id": 410
+    },
+    {
+      "title": "天虹商场股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "超市"
+      ],
+      "address": "广东省深圳市福田区福中一路1016号地铁大厦20-24层",
+      "tel": "025-83274777",
+      "mail": "cdzc@rainbowcn.com",
+      "homepage": "http://www.rainbow.cn",
+      "creat_time": 1542555570890,
+      "id": 411
+    },
+    {
+      "title": "大成生化科技集团有限公司",
+      "tags": [
+        "玉米澱粉",
+        "玉米纖維",
+        "玉米蛋白粉",
+        "玉米油"
+      ],
+      "address": "香港夏愨道十八號海富中心一座一一零四室",
+      "tel": "852-28388155",
+      "mail": "contact@globalbiochem.com",
+      "homepage": "http://www.globalbiochem.com/",
+      "creat_time": 1542555570899,
+      "id": 412
+    },
+    {
+      "title": "重庆机电股份有限公司",
+      "tags": [
+        "机械制造",
+        "加工",
+        "500强"
+      ],
+      "address": "重庆渝中区中山三路155号",
+      "tel": "0572-2680888",
+      "mail": "office@chinacqme.com",
+      "homepage": "http://www.chinacqme.com",
+      "creat_time": 1542555570908,
+      "id": 413
+    },
+    {
+      "title": "金发科技股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "金融改革"
+      ],
+      "address": "广东省广州市广州高新技术产业开发区科学城科丰路33号",
+      "tel": "021-54584520",
+      "mail": "postmaster@kingfa.com.cn",
+      "homepage": "http://www.kingfa.com.cn",
+      "creat_time": 1542555570918,
+      "id": 414
+    },
+    {
+      "title": "上海龙宇燃油股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "500强"
+      ],
+      "address": "上海市浦东新区东方路710号19楼",
+      "tel": "021-58300945",
+      "mail": "lyry@lyrysh.com",
+      "homepage": "http://www.lyrysh.com",
+      "creat_time": 1542555570926,
+      "id": 415
+    },
+    {
+      "title": "玉柴国际有限公司",
+      "tags": [
+        "机械制造",
+        "500强"
+      ],
+      "address": "No 16 Raffles Quay #39-01A， Hong Leong Building， Singapore",
+      "tel": "852-28023861",
+      "mail": "http://www.cyilimited.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555570935,
+      "id": 416
+    },
+    {
+      "title": "国电电力发展股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "风能概念"
+      ],
+      "address": "北京市朝阳区安慧北里安园19号",
+      "tel": "010-58682103",
+      "mail": "gddl@600795.com.cn",
+      "homepage": "http://www.600795.com.cn",
+      "creat_time": 1542555570946,
+      "id": 417
+    },
+    {
+      "title": "哈尔滨电气股份有限公司",
+      "tags": [
+        "500强"
+      ],
+      "address": "黑龙江省哈尔滨市香坊区三大动力路39号B座",
+      "tel": "0531-67606760",
+      "mail": "http://www.chpec.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555570953,
+      "id": 418
+    },
+    {
+      "title": "中国石化上海石油化工股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "石油化工"
+      ],
+      "address": "上海市金山区金一路48号",
+      "tel": "96158",
+      "mail": "tom@spc.com.cn",
+      "homepage": "http://www.spc.com.cn",
+      "creat_time": 1542555570963,
+      "id": 419
+    },
+    {
+      "title": "大昌行集团有限公司",
+      "tags": [
+        "汽车",
+        "食品",
+        "物流",
+        "500强"
+      ],
+      "address": "香港九龙湾启祥道20号大昌行集团大厦B字楼",
+      "tel": "0553-8398999",
+      "mail": "http://www.dch.com.hk",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555570972,
+      "id": 420
+    },
+    {
+      "title": "越秀地产股份有限公司",
+      "tags": [
+        "房地产开发",
+        "投资",
+        "500强"
+      ],
+      "address": "香港湾仔骆克道160号越秀大厦26楼",
+      "tel": "024-2519999",
+      "mail": "http://www.yuexiuproperty.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555573580,
+      "id": 421
+    },
+    {
+      "title": "北京京能热电股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "低碳概念"
+      ],
+      "address": "北京市石景山区广宁路10号",
+      "tel": "010-88990762",
+      "mail": "jnrd@263.net",
+      "homepage": "http://roadshow.p5w.net/",
+      "creat_time": 1542555573589,
+      "id": 422
+    },
+    {
+      "title": "杭州锅炉集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力设备",
+        "500强"
+      ],
+      "address": "浙江省杭州市下城区东新路245号",
+      "tel": "0571-85387519",
+      "mail": "oiler@mail.hz.zj.cn",
+      "homepage": "http://www.chinaboilers.com",
+      "creat_time": 1542555573597,
+      "id": 423
+    },
+    {
+      "title": "中国东方集团控股有限公司",
+      "tags": [
+        "钢铁",
+        "钢生产设备",
+        "500强"
+      ],
+      "address": "中国北京市朝阳区东三环中路9号富尔大厦2901-3室",
+      "tel": "010-85910207",
+      "mail": "http://www.chinaorientalgroup.com/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555573606,
+      "id": 424
+    },
+    {
+      "title": "广州汽车集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "机械"
+      ],
+      "address": "广东省广州市东风中路448号成悦大厦23楼",
+      "tel": "852-25937388",
+      "mail": "webmaster@gagc.com.cn",
+      "homepage": "http://www.gagc.com.cn",
+      "creat_time": 1542555573613,
+      "id": 425
+    },
+    {
+      "title": "中国熔盛重工集团控股有限公司",
+      "tags": [
+        "造船",
+        "海洋工程",
+        "动力工程",
+        "工程机械"
+      ],
+      "address": "江苏省如皋港经济开发区疏港路1号",
+      "tel": "0513-87319777",
+      "mail": "http://www.rshi.cn/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555573620,
+      "id": 426
+    },
+    {
+      "title": "上海实业控股有限公司",
+      "tags": [
+        "医疗卫生",
+        "房地产",
+        "信息技术投资",
+        "500强"
+      ],
+      "address": "香港湾仔告士打道39号夏慤大厦26号",
+      "tel": "0451-84619288",
+      "mail": "enquiry@sihl.com.hk",
+      "homepage": "http://www.sihl.com.hk",
+      "creat_time": 1542555573638,
+      "id": 427
+    },
+    {
+      "title": "中国南车股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "非汽车交运",
+        "高铁概念股"
+      ],
+      "address": "北京市海淀区西四环中路16号",
+      "tel": "010-51862188",
+      "mail": "wenzhiyong@csrgc.com.cn",
+      "homepage": "http://www.csrgc.com.cn",
+      "creat_time": 1542555573646,
+      "id": 428
+    },
+    {
+      "title": "创维数码控股有限公司",
+      "tags": [
+        "数码家电",
+        "电器制造",
+        "500强"
+      ],
+      "address": "香港鱼涌华兰路20号华兰中心1601-04室",
+      "tel": "400-6111-111",
+      "mail": "http://www.skyworth.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555573655,
+      "id": 429
+    },
+    {
+      "title": "联华超市股份有限公司",
+      "tags": [
+        "超市",
+        "零售",
+        "批发",
+        "500强"
+      ],
+      "address": "上海市浦东新区商城路518号10楼",
+      "tel": "0571-85155000",
+      "mail": "http://www.lhok.com.cn",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555573663,
+      "id": 430
+    },
+    {
+      "title": "恒大地产集团有限公司",
+      "tags": [
+        "房地产开发",
+        "管理",
+        "500强"
+      ],
+      "address": "广州市天河路45号天伦大厦",
+      "tel": "webmaster@gzhengda.com.cn",
+      "mail": "http://www.evergrande.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555576122,
+      "id": 431
+    },
+    {
+      "title": "北京控股有限公司",
+      "tags": [
+        "燃气",
+        "收费公路",
+        "水务",
+        "啤酒业"
+      ],
+      "address": "香港湾仔港湾道18号中环广场66楼",
+      "tel": "010-68038833",
+      "mail": "mailbox@behl.com.hk",
+      "homepage": "http://www.behl.com.hk",
+      "creat_time": 1542555576130,
+      "id": 432
+    },
+    {
+      "title": "中国机械设备工程股份有限公司",
+      "tags": [
+        "电力能源",
+        "交通运输",
+        "电子通讯",
+        "房屋及建筑"
+      ],
+      "address": "北京市西城区广安门外大街178号",
+      "tel": "010-63451188",
+      "mail": "cmec@mail.cmec.com",
+      "homepage": "http://www.cmec.com/",
+      "creat_time": 1542555576137,
+      "id": 433
+    },
+    {
+      "title": "永辉超市股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "超市"
+      ],
+      "address": "福建省福州市西二环中路436号",
+      "tel": "0591-83787308",
+      "mail": "od.yh@yonghui.cn",
+      "homepage": "http://www.yonghui.com.cn",
+      "creat_time": 1542555576146,
+      "id": 434
+    },
+    {
+      "title": "招金矿业股份有限公司",
+      "tags": [
+        "黄金生产",
+        "黄金冶炼",
+        "500强"
+      ],
+      "address": "山东省招远市金晖路299号",
+      "tel": "0535-8266009",
+      "mail": "zjky@zhaojin.com.cn",
+      "homepage": "http://www.zhaojin.com.cn/",
+      "creat_time": 1542555576153,
+      "id": 435
+    },
+    {
+      "title": "上海梅林正广和股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "食品饮料",
+        "500强"
+      ],
+      "address": "上海新闸路1418号",
+      "tel": "021-53891220",
+      "mail": "yanl@shanghaimaling.com",
+      "homepage": "http://www.shanghaimaling.com",
+      "creat_time": 1542555576161,
+      "id": 436
+    },
+    {
+      "title": "中国通信服务股份有限公司",
+      "tags": [
+        "通信",
+        "服务业",
+        "500强"
+      ],
+      "address": "北京市东城区朝阳门北大街十九号",
+      "tel": "0562-5860016",
+      "mail": "hqoa@chinaccs.com.cn",
+      "homepage": "http://www.chinaccs.com.hk",
+      "creat_time": 1542555576168,
+      "id": 437
+    },
+    {
+      "title": "阳煤化工股份有限公司",
+      "tags": [
+        "化工产品",
+        "化工装备",
+        "500强"
+      ],
+      "address": "山西省太原市高新区科技街18号",
+      "tel": "0351-7255856",
+      "mail": "http://www.ymhgj.cn/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555576177,
+      "id": 438
+    },
+    {
+      "title": "新疆友好(集团)股份有限公司",
+      "tags": [
+        "零售企业",
+        "融商业",
+        "酒店餐饮",
+        "娱乐旅游"
+      ],
+      "address": "新疆维吾尔自治区乌鲁木齐市友好南路668号",
+      "tel": "0991-4559400",
+      "mail": "yhzqb@mail.xj.cninfo.net",
+      "homepage": "http://www.xjyh.com.cn/",
+      "creat_time": 1542555576184,
+      "id": 439
+    },
+    {
+      "title": "中远国际控股有限公司",
+      "tags": [
+        "船舶",
+        "物流",
+        "运输",
+        "500强"
+      ],
+      "address": "香港皇后大道中183号中远大厦47楼",
+      "tel": "info@coscointl.com",
+      "mail": "http://www.coscointl.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555576194,
+      "id": 440
+    },
+    {
+      "title": "SOHO中国有限公司",
+      "tags": [
+        "商业地产",
+        "500强"
+      ],
+      "address": "北京市朝阳区朝外大街乙6号朝外SOHO A区11层",
+      "tel": "400-815-9888",
+      "mail": "pr@sohochina.com",
+      "homepage": "http://www.sohochina.com/",
+      "creat_time": 1542555576917,
+      "id": 441
+    },
+    {
+      "title": "天津港股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "港口水运",
+        "滨海概念"
+      ],
+      "address": "天津市塘沽区津港路99号",
+      "tel": "0519-85482008",
+      "mail": "tianjinport@tianjin-port.com",
+      "homepage": "http://www.tianjin-port.com",
+      "creat_time": 1542555576927,
+      "id": 442
+    },
+    {
+      "title": "上海隧道工程股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "建筑材料",
+        "高铁概念股"
+      ],
+      "address": "上海市大连路118号",
+      "tel": "0537-2909999",
+      "mail": "cj@stec.net",
+      "homepage": "http://www.stec.net",
+      "creat_time": 1542555576935,
+      "id": 443
+    },
+    {
+      "title": "安源煤业集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "循环经济"
+      ],
+      "address": "江西省南昌市西湖区丁公路117号煤炭大厦",
+      "tel": "0791-87151886",
+      "mail": "qianwei_nc@163.com",
+      "homepage": "http://www.anyuan2002.com",
+      "creat_time": 1542555576945,
+      "id": 444
+    },
+    {
+      "title": "中国长城计算机深圳股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "计算机设备",
+        "云计算"
+      ],
+      "address": "广东省深圳市南山区科技工业园长城计算机大厦",
+      "tel": "010-58382266",
+      "mail": "ggwzhaopin@greatwall.com.cn",
+      "homepage": "http://www.greatwall.cn",
+      "creat_time": 1542555576953,
+      "id": 445
+    },
+    {
+      "title": "同方股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "计算机设备",
+        "三网融合"
+      ],
+      "address": "北京市海淀区清华同方科技大厦A 座29 层",
+      "tel": "010-85017500",
+      "mail": "600100@thtf.com.cn",
+      "homepage": "http://www.thtf.com.cn",
+      "creat_time": 1542555576962,
+      "id": 446
+    },
+    {
+      "title": "波司登国际控股有限公司",
+      "tags": [
+        "羽绒服生产",
+        "销售",
+        "500强"
+      ],
+      "address": "香港湾仔告士打道39号夏悫大厦17楼1703A室",
+      "tel": "info@bosideng.com",
+      "mail": "http://www.bosideng.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555576969,
+      "id": 447
+    },
+    {
+      "title": "内蒙古亿利能源股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "综合",
+        "能源"
+      ],
+      "address": "北京市西城区复兴门内大街28号凯晨世贸中心东座六层",
+      "tel": "0546-6888808",
+      "mail": "yilikeji600277@163.com",
+      "homepage": "http://www.elion.cn",
+      "creat_time": 1542555576978,
+      "id": 448
+    },
+    {
+      "title": "海丰国际控股有限公司",
+      "tags": [
+        "航运物流",
+        "集装箱班轮运输",
+        "船舶管理",
+        "船舶经纪"
+      ],
+      "address": "上海市浦东新区",
+      "tel": "021-38969000",
+      "mail": "sitc@sitc.com",
+      "homepage": "http://www.sitc.com/",
+      "creat_time": 1542555576986,
+      "id": 449
+    },
+    {
+      "title": "远洋地产控股有限公司",
+      "tags": [
+        "房地产开发",
+        "管理",
+        "500强"
+      ],
+      "address": "北京朝阳区东四环中路56号远洋国际中心A座31-33楼",
+      "tel": "0971-61230888",
+      "mail": "webmaster@sinooceanland.com",
+      "homepage": "http://www.sinooceanland.com",
+      "creat_time": 1542555576994,
+      "id": 450
+    },
+    {
+      "title": "通威股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "农林牧渔",
+        "渔业"
+      ],
+      "address": "四川省成都市二环路南四段11号",
+      "tel": "0575-87063555",
+      "mail": "wangsj@tongwei.com",
+      "homepage": "http://www.tongwei.com.cn",
+      "creat_time": 1542555579508,
+      "id": 451
+    },
+    {
+      "title": "天虹纺织集团有限公司",
+      "tags": [
+        "棉纺织品",
+        "500强"
+      ],
+      "address": "上海市长宁区仙霞路80号天虹大楼4楼ABC座",
+      "tel": "021-62958666",
+      "mail": "info@texhong.com",
+      "homepage": "http://www.texhong.com/",
+      "creat_time": 1542555579516,
+      "id": 452
+    },
+    {
+      "title": "铜陵有色金属集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "循环经济"
+      ],
+      "address": "安徽省铜陵市长江西路有色大院西楼",
+      "tel": "4008-365-365",
+      "mail": "tlys@126.com",
+      "homepage": "http://www.tlys.cn",
+      "creat_time": 1542555579523,
+      "id": 453
+    },
+    {
+      "title": "志高控股有限公司",
+      "tags": [
+        "空调制造",
+        "生活电器制造",
+        "500强"
+      ],
+      "address": "广东佛山南海区里水胜利工业区",
+      "tel": "852-25116671",
+      "mail": "http://www.china-chigo.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555579532,
+      "id": 454
+    },
+    {
+      "title": "恒安国际集团有限公司",
+      "tags": [
+        "妇幼卫生用品",
+        "纸类产品",
+        "心相印",
+        "安尔乐等"
+      ],
+      "address": "福建省晋江市安海镇恒安工业城",
+      "tel": "027-85601349",
+      "mail": "http://www.hengan.com/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555579539,
+      "id": 455
+    },
+    {
+      "title": "保利协鑫能源控股有限公司",
+      "tags": [
+        "硅业",
+        "500强"
+      ],
+      "address": "香港九龙柯士甸道西一号环球贸易广场17楼1703B-1706室",
+      "tel": "024-25698225",
+      "mail": "gclgroup@gcl-power.com",
+      "homepage": "http://www.gcl-poly.com.hk",
+      "creat_time": 1542555579549,
+      "id": 456
+    },
+    {
+      "title": "株洲冶炼集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "循环经济"
+      ],
+      "address": "湖南省株洲市石峰区清水塘",
+      "tel": "592-6389333",
+      "mail": "lianlian@126.com",
+      "homepage": "http://www.torchcn.com",
+      "creat_time": 1542555579557,
+      "id": 457
+    },
+    {
+      "title": "超威动力控股有限公司",
+      "tags": [
+        "超威",
+        "蓄电池",
+        "生产厂家",
+        "500强"
+      ],
+      "address": "浙江省长兴雉城新兴工业园雉州大道12号",
+      "tel": "0572-6562868",
+      "mail": "sprg-chaowei@sprg.com.hk",
+      "homepage": "http://www.chaowei.com.hk/",
+      "creat_time": 1542555579566,
+      "id": 458
+    },
+    {
+      "title": "中国人民保险集团股份有限公司",
+      "tags": [
+        "保险",
+        "500强",
+        "服务业500强"
+      ],
+      "address": "北京市海淀区清华西路28号内万春园",
+      "tel": "010-62616611",
+      "mail": "http://www.picc.com/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555579577,
+      "id": 459
+    },
+    {
+      "title": "大明国际控股有限公司",
+      "tags": [
+        "不锈钢加工",
+        "特殊钢",
+        "500强"
+      ],
+      "address": "香港湾仔港弯道18号中环广场1007室",
+      "tel": "0510-83859388",
+      "mail": "http://www.dmssc.net/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555579586,
+      "id": 460
+    },
+    {
+      "title": "中国石化仪征化纤股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "化工",
+        "化纤"
+      ],
+      "address": "江苏省仪征市",
+      "tel": "010-66579001",
+      "mail": "cso@ycfc.com",
+      "homepage": "http://www.ycfc.com",
+      "creat_time": 1542555580523,
+      "id": 461
+    },
+    {
+      "title": "永晖焦煤股份有限公司",
+      "tags": [
+        "煤炭采购",
+        "煤炭加工",
+        "煤炭运输",
+        "500强"
+      ],
+      "address": "北京市经济技术开发区宏达中路10号",
+      "tel": "010 - 67871111",
+      "mail": "http://www.winsway.com/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555580530,
+      "id": 462
+    },
+    {
+      "title": "厦门钨业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "锂电概念"
+      ],
+      "address": "福建省厦门市湖滨南路 619 号16 层",
+      "tel": "0592-5363856",
+      "mail": "info@cxtc.com",
+      "homepage": "http://www.cxtc.com",
+      "creat_time": 1542555580538,
+      "id": 463
+    },
+    {
+      "title": "华润创业有限公司",
+      "tags": [
+        "零售",
+        "饮品",
+        "食品加工",
+        "500强"
+      ],
+      "address": "香港湾仔港湾道26号华润大厦39楼",
+      "tel": "021-58350000",
+      "mail": "info@cre.com.hk",
+      "homepage": "http://www.cre.com.hk",
+      "creat_time": 1542555580547,
+      "id": 464
+    },
+    {
+      "title": "众品集团",
+      "tags": [
+        "农产品加工",
+        "食品制造",
+        "500强"
+      ],
+      "address": "河南省长葛市长社路21号",
+      "tel": "0374-6216316",
+      "mail": "zhongpin@zhongpin.com",
+      "homepage": "http://www.zhongpin.com/",
+      "creat_time": 1542555580555,
+      "id": 465
+    },
+    {
+      "title": "五矿资源有限公司",
+      "tags": [
+        "有色金属",
+        "钢铁经销商",
+        "房地产",
+        "航运"
+      ],
+      "address": "重庆市九龙坡区含谷镇鑫源路8号",
+      "tel": "023-65733889",
+      "mail": "http://www.shineray.com.cn/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555580563,
+      "id": 466
+    },
+    {
+      "title": "恒盛地产控股有限公司",
+      "tags": [
+        "房地产开发",
+        "500强"
+      ],
+      "address": "上海市普陀区大渡河路168弄31号E栋",
+      "tel": "021-52808866",
+      "mail": "info@gloriousphl.com.cn",
+      "homepage": "http://www.gloriousphl.com.cn/",
+      "creat_time": 1542555580572,
+      "id": 467
+    },
+    {
+      "title": "北京京客隆商业集团股份有限公司",
+      "tags": [
+        "超市",
+        "餐饮",
+        "百货",
+        "500强"
+      ],
+      "address": "北京市朝阳区新源街45号楼",
+      "tel": "xfz@jkl.com.cn",
+      "mail": "http://www.jkl.com.cn",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555580582,
+      "id": 468
+    },
+    {
+      "title": "北京同仁堂股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "医药生物",
+        "制药"
+      ],
+      "address": "北京市东城区东兴隆街52号;北京市崇文门外大街42号",
+      "tel": "010-67020018",
+      "mail": "tongrentang@tongrentang.com",
+      "homepage": "http://www.tongrentang.com",
+      "creat_time": 1542555580591,
+      "id": 469
+    },
+    {
+      "title": "江苏洋河酒厂股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "食品饮料",
+        "洒业"
+      ],
+      "address": "江苏省宿迁市洋河中大街118号",
+      "tel": "021-25295652",
+      "mail": "yanghe002304@vip.163.com",
+      "homepage": "http://www.chinayanghe.com",
+      "creat_time": 1542555580600,
+      "id": 470
+    },
+    {
+      "title": "东风汽车集团股份有限公司",
+      "tags": [
+        "商用车",
+        "乘用车",
+        "汽车零部件",
+        "500强"
+      ],
+      "address": "湖北省武汉经济技术开发区创业路58号",
+      "tel": "ir@dfmc.com.cn",
+      "mail": "http://www.dfmg.com.cn",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555581336,
+      "id": 471
+    },
+    {
+      "title": "中升集团控股有限公司",
+      "tags": [
+        "汽车经销商",
+        "汽车配件",
+        "保养",
+        "500强"
+      ],
+      "address": "北京市朝阳区东三环北路38号泰康金融大廈32层",
+      "tel": "010- 5758 0111",
+      "mail": "zhongsheng@zs-group.com.cn",
+      "homepage": "http://www.zs-group.com.cn/",
+      "creat_time": 1542555581344,
+      "id": 472
+    },
+    {
+      "title": "理文造纸有限公司",
+      "tags": [
+        "500强"
+      ],
+      "address": "香港九龙观塘敬业街61-63号利维大厦5楼",
+      "tel": "0513-82738796",
+      "mail": "http://www.leemanpaper.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555581351,
+      "id": 473
+    },
+    {
+      "title": "深圳市飞马国际供应链股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "陆路运输",
+        "飞马国际"
+      ],
+      "address": "广东省深圳市福田区深南大道7008号阳光高尔夫大厦2601室",
+      "tel": "0755-33356333-8873",
+      "mail": "fmscm@fmscm.com",
+      "homepage": "http://www.fmscm.com",
+      "creat_time": 1542555581357,
+      "id": 474
+    },
+    {
+      "title": "旭辉控股(集团)有限公司",
+      "tags": [
+        "房地产",
+        "住宅开发",
+        "建筑施工",
+        "商业管理"
+      ],
+      "address": "上海市长宁区通协路288弄（近协和路）旭辉·虹桥国际广场三号楼",
+      "tel": "021－60701010",
+      "mail": "office@cifi.com.cn",
+      "homepage": "http://www.cifi.com.cn/",
+      "creat_time": 1542555581364,
+      "id": 475
+    },
+    {
+      "title": "物产中拓股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "钢铁",
+        "长株潭"
+      ],
+      "address": "湖南省长沙市芙蓉区五一大道235号湘域中央1栋3-4楼",
+      "tel": "010-64399518",
+      "mail": "nfjc000906@nfjc.com.cn",
+      "homepage": "http://www.nfjc.com.cn",
+      "creat_time": 1542555581370,
+      "id": 476
+    },
+    {
+      "title": "中国中材股份有限公司",
+      "tags": [
+        "水泥",
+        "玻璃纤维",
+        "复合材料生产",
+        "500强"
+      ],
+      "address": "北京市西城区西直门内北顺城街11号",
+      "tel": "400-812-3456",
+      "mail": "sinomaltd@sinoma-ltd.cn",
+      "homepage": "http://www.sinoma-ltd.cn",
+      "creat_time": 1542555581376,
+      "id": 477
+    },
+    {
+      "title": "内蒙古鄂尔多斯资源股份有限公司",
+      "tags": [
+        "上市公司",
+        "钢铁",
+        "证券交易",
+        "服装零售"
+      ],
+      "address": "内蒙古自治区鄂尔多斯市东胜区达拉特南路102号",
+      "tel": "0477-8543776",
+      "mail": "service@chinaerdos.com",
+      "homepage": "http://www.chinaerdos.com",
+      "creat_time": 1542555581384,
+      "id": 478
+    },
+    {
+      "title": "中国外运股份有限公司",
+      "tags": [
+        "仓储",
+        "运输",
+        "物流",
+        "500强"
+      ],
+      "address": "北京市海淀区西直门北大街甲43号金运大厦A座",
+      "tel": "010-80708888",
+      "mail": "office@sinotrans.com",
+      "homepage": "http://www.sinotrans.com",
+      "creat_time": 1542555581390,
+      "id": 479
+    },
+    {
+      "title": "中航国际控股股份有限公司",
+      "tags": [
+        "航空技术",
+        "战略投资",
+        "天马液晶",
+        "深南电路PCB"
+      ],
+      "address": "北京市朝阳区北辰东路18号中航国际大厦",
+      "tel": "010-84808611",
+      "mail": "http://www.avic-intl.cn/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555581399,
+      "id": 480
+    },
+    {
+      "title": "永泰能源股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "采掘",
+        "黄金概念"
+      ],
+      "address": "北京市西城区宣武门西大街127号永泰A座",
+      "tel": "010-63211817",
+      "mail": "wteclzqb@126.com",
+      "homepage": "http://www.wtecl.com",
+      "creat_time": 1542555582343,
+      "id": 481
+    },
+    {
+      "title": "中国大冶有色金属矿业有限公司",
+      "tags": [
+        "采矿",
+        "选矿",
+        "冶炼",
+        "化工"
+      ],
+      "address": "湖北省黄石市新下陆下陆大道18号",
+      "tel": "0714-5385555",
+      "mail": "http://www.dyys.com/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555582350,
+      "id": 482
+    },
+    {
+      "title": "宝信汽车集团有限公司",
+      "tags": [
+        "汽车销售",
+        "宝马轿车",
+        "汽车维修",
+        "汽车装潢"
+      ],
+      "address": "上海市闵行区虹莘路3998号",
+      "tel": "021-34315555",
+      "mail": "info@klbaoxin.com",
+      "homepage": "http://www.klbaoxin.com/",
+      "creat_time": 1542555582359,
+      "id": 483
+    },
+    {
+      "title": "环旭电子股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电子元器件",
+        "通信"
+      ],
+      "address": "上海市张江高科技园区集成电路产业区张东路1558号",
+      "tel": "021-58968418",
+      "mail": "china@usiglobal.com",
+      "homepage": "http://www.usish.com",
+      "creat_time": 1542555582369,
+      "id": 484
+    },
+    {
+      "title": "国电科技环保集团股份有限公司",
+      "tags": [
+        "能源",
+        "环保设备",
+        "500强"
+      ],
+      "address": "北京市朝阳区安慧北里安园19号",
+      "tel": "010-59293377",
+      "mail": "http://www.01296.hk",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555582376,
+      "id": 485
+    },
+    {
+      "title": "阜丰集团有限公司",
+      "tags": [
+        "生物科技",
+        "生物发酵",
+        "生物研发",
+        "500强"
+      ],
+      "address": "山东省莒南县隆山路北段",
+      "tel": "0539-7212351",
+      "mail": "http://www.fufeng-group.com/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555582384,
+      "id": 486
+    },
+    {
+      "title": "深圳市中金岭南有色金属股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "海外收购"
+      ],
+      "address": "广东省深圳市福田区车公庙深南大道6013号中国有色大厦24楼",
+      "tel": "510-85318888",
+      "mail": "zjln@nonfemet.com.cn",
+      "homepage": "http://www.nonfemet.com",
+      "creat_time": 1542555582392,
+      "id": 487
+    },
+    {
+      "title": "中国电力国际发展有限公司",
+      "tags": [
+        "电力生产",
+        "经营",
+        "500强"
+      ],
+      "address": "香港湾仔港湾道18号中环广场63层6301室",
+      "tel": "ir@chinapower.hk",
+      "mail": "http://www.chinapower.hk",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555582398,
+      "id": 488
+    },
+    {
+      "title": "华电福新能源股份有限公司",
+      "tags": [
+        "电力",
+        "水电",
+        "500强"
+      ],
+      "address": "福建省福州市鼓楼区五四路111号宜发大厦25层",
+      "tel": "0591-87028308",
+      "mail": "http://www.hdfx.com.cn/",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555582408,
+      "id": 489
+    },
+    {
+      "title": "江铃汽车股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "汽车",
+        "外资概念"
+      ],
+      "address": "江西省南昌市迎宾北大道509号",
+      "tel": "010-57659801",
+      "mail": "relations@jmc.com.cn",
+      "homepage": "http://www.jmc.com.cn",
+      "creat_time": 1542555582415,
+      "id": 490
+    },
+    {
+      "title": "北京首商集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "商业贸易",
+        "日常用品销售"
+      ],
+      "address": "北京市西城区北三环中路23号燕莎盛世大厦二层",
+      "tel": "0015-1983-71881",
+      "mail": "ssgf600723@126.com",
+      "homepage": "http://www.xdsc.com.cn",
+      "creat_time": 1542555583913,
+      "id": 491
+    },
+    {
+      "title": "广州药业股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "医药生物",
+        "500强"
+      ],
+      "address": "广东省广州市荔湾区沙面北街45号",
+      "tel": "020-81218103",
+      "mail": "huangxz@gpc.com.cn",
+      "homepage": "http://www.gpc.com.cn",
+      "creat_time": 1542555583918,
+      "id": 492
+    },
+    {
+      "title": "佳兆业集团控股有限公司",
+      "tags": [
+        "房地产开发",
+        "运营",
+        "500强"
+      ],
+      "address": "深圳市罗湖区人民南路嘉里中心3306室",
+      "tel": "020-83151139",
+      "mail": "http://www.kaisagroup.com",
+      "homepage": ".contact li:nth-child(4)",
+      "creat_time": 1542555583925,
+      "id": 493
+    },
+    {
+      "title": "嘉凯城集团股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "房地产",
+        "QFII概念"
+      ],
+      "address": "湖南省长沙市芙蓉中路二段279号金源大酒店天麒楼16楼",
+      "tel": "021-60850600",
+      "mail": "xuexiaoqiao@calxon-group.com",
+      "homepage": "http://www.calxon-group.com",
+      "creat_time": 1542555583931,
+      "id": 494
+    },
+    {
+      "title": "云南驰宏锌锗股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "有色金属",
+        "化工"
+      ],
+      "address": "云南省曲靖市经济技术开发区",
+      "tel": "010-64742227-368",
+      "mail": "ynchxz@chxz.com",
+      "homepage": "http://www.chxz.com",
+      "creat_time": 1542555583937,
+      "id": 495
+    },
+    {
+      "title": "国药控股股份有限公司",
+      "tags": [
+        "药品制造",
+        "销售",
+        "500强"
+      ],
+      "address": "上海市福州路221号",
+      "tel": "966866",
+      "mail": "webmaster@sinopharmholding.com",
+      "homepage": "http://www.sinopharmgroup.com.cn",
+      "creat_time": 1542555583945,
+      "id": 496
+    },
+    {
+      "title": "安徽省皖能股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "电力",
+        "节能"
+      ],
+      "address": "安徽省合肥市马鞍山路76 号能源大厦7-10 层",
+      "tel": "0551-2225811",
+      "mail": "wn000543@wenergy.cn",
+      "homepage": "http://www.wenergy.cn",
+      "creat_time": 1542555583952,
+      "id": 497
+    },
+    {
+      "title": "长城科技股份有限公司",
+      "tags": [
+        "计算机设备生产",
+        "500强"
+      ],
+      "address": "广东省深圳市南山区科技工业园科苑路2号",
+      "tel": "010-85108888",
+      "mail": "webmaster@greatwalltech.com",
+      "homepage": "http://www.greatwalltech.com",
+      "creat_time": 1542555583960,
+      "id": 498
+    },
+    {
+      "title": "太原重工股份有限公司",
+      "tags": [
+        "上市公司",
+        "证券交易",
+        "机械设备",
+        "高铁概念股"
+      ],
+      "address": "山西省太原市万柏林区玉河街53号",
+      "tel": "023-63075707",
+      "mail": "info@tyhi.com.cn",
+      "homepage": "http://www.tyhi.com.cn",
+      "creat_time": 1542555583968,
+      "id": 499
+    },
+    {
+      "title": "内蒙古伊泰煤炭股份有限公司",
+      "tags": [
+        "上市公司",
+        "采掘",
+        "500强"
+      ],
+      "address": "内蒙古自治区鄂尔多斯市东胜区天骄北路伊泰大厦",
+      "tel": "0477-8565734",
+      "mail": "ir@yitaicoal.com",
+      "homepage": "http://www.yitaicoal.com",
+      "creat_time": 1542555583974,
+      "id": 500
+    }
+  ]
+}
