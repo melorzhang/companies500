@@ -70,6 +70,7 @@ async function getChinaCompanies500FromWeb(){
 async function getCompaniesConsoleLog() {
     const urlList=[];
     const browser = await puppeteer.launch(launchConfig);
+    const ctx={errLog:[]};
     await util.promiseChain(new Array(500).fill(1).map((val,idx)=>idx+1),async (idx)=>{
         const data=await axios.get(`http://localhost:3000/companies/${idx}`);
         // console.log(data);
@@ -86,11 +87,12 @@ async function getCompaniesConsoleLog() {
         }
     },10,0);
     await util.promiseChain(urlList,async (url)=>{
-        console.log(url);
-        await getCompanyConsoleLog({browser,url})
+        // console.log(url);
+        await getCompanyConsoleLog({browser,url,ctx})
     },5,500)
+    console.log(ctx.errLog);
 }
-async function getCompanyConsoleLog({browser,url}) {
+async function getCompanyConsoleLog({browser,url,ctx}) {
     const page=await browser.newPage();
     await page.setRequestInterception(true);
     page.on('request', interceptedRequest => {
@@ -108,8 +110,9 @@ async function getCompanyConsoleLog({browser,url}) {
             page.goto(url),
             page.waitFor(10*1000)
         ]).catch(err=>{
-            console.log(url,err)
-            return void 0;
+            console.log(url,err);
+            Array.isArray(ctx.errLog)&&ctx.errLog.push(url);
+            return;
         });
     }
     await page.close();
