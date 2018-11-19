@@ -1,6 +1,19 @@
 const puppeteer = require('puppeteer');
 const axios=require("axios");
+const program=require("commander");
 const util=require("./util.js");
+program
+    .version('0.0.1')
+    .option('-r, --run <programName>','run specific program, default is none, should be one of "test"',/^(none|test)$/i,'none')
+    .option('-o, --openBrowser','open browser or not,default is false')
+    .parse(process.argv);
+const PROGRAM_NAME=program.run;
+const OPEN_BRWOSER=program.openBrowser;
+
+const launchConfig={
+    headless:!OPEN_BRWOSER
+};
+// console.log(PROGRAM_NAME);
 // this function will get 500 companies of china
 async function getChinaCompanies500FromWeb(){
     function pageInject () {
@@ -51,6 +64,69 @@ async function getChinaCompanies500FromWeb(){
     },1,500);
     await browser.close();
 }
-getChinaCompanies500FromWeb().then(()=>{
+// getChinaCompanies500FromWeb().then(()=>{
+//     process.exit();
+// })
+async function getCompaniesConsoleLog() {
+    const urlList=[];
+    const browser = await puppeteer.launch(launchConfig);
+    await util.promiseChain(new Array(500).fill(1).map((val,idx)=>idx+1),async (idx)=>{
+        const data=await axios.get(`http://localhost:3000/companies/${idx}`);
+        // console.log(data);
+        if(data.data){
+            // console.log(data.data)
+            if(data.data.homepage.startsWith('http')){
+                urlList.push(data.data.homepage)
+            }else if(data.data.mail.startsWith('http')) {
+                urlList.push(data.data.mail)
+            }else if(data.data.tel.startsWith('http')) {
+                urlList.push(data.data.tel)
+            }
+
+        }
+    },10,0);
+    await util.promiseChain(urlList,async (url)=>{
+        console.log(url);
+        await getCompanyConsoleLog({browser,url})
+    },5,500)
+}
+async function getCompanyConsoleLog({browser,url}) {
+    const page=await browser.newPage();
+    await page.setRequestInterception(true);
+    page.on('request', interceptedRequest => {
+        if (interceptedRequest.url().endsWith('.png') || interceptedRequest.url().endsWith('.jpg'))
+            interceptedRequest.abort();
+        else
+            interceptedRequest.continue();
+    });
+    page.on('console', msg => {
+        for (let i = 0; i < msg.args().length; ++i)
+            console.log(`${url}${i}: ${msg.args()[i]}`);
+    });
+    if(url.startsWith('http')){
+        await Promise.race([
+            page.goto(url),
+            page.waitFor(10*1000)
+        ]).catch(err=>{
+            console.log(url,err)
+            return void 0;
+        });
+    }
+    await page.close();
+}
+async function runAndExit(fn) {
+    if(typeof fn==='function'){
+       await fn();
+    }
     process.exit();
-})
+}
+switch (PROGRAM_NAME){
+    case 'none':{
+        console.log(`no specific program, use -h for more information`);
+        break;
+    }
+    case 'test':{
+        runAndExit(getCompaniesConsoleLog);
+        break;
+    }
+}
